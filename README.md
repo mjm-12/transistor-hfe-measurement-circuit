@@ -2,7 +2,8 @@
 
 Constant-current based circuit for measuring transistor hFE (KiCad project).
 
-- Version: v1.0 (as ordered on 2026-07-02)
+- v1.0: as ordered on 2026-07-02 (tag `v1.0`)
+- v1.1: current revision (tag `v1.1`)
 
 ## License
 

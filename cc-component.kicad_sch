@@ -4,6 +4,15 @@
 	(generator_version "10.0")
 	(uuid "c3c762e9-e9a8-4ddc-b41d-38f972fa8edd")
 	(paper "A4")
+	(title_block
+		(title "Transistor hFE Measurement Circuit Schematic")
+		(date "2026-10-15")
+		(rev "v1.1")
+		(company "Hayata Yamamoto")
+		(comment 1 "Copyright 2026 Hayata Yamamoto")
+		(comment 2 "Licensed under CERN-OHL-P v2")
+		(comment 3 "Source: github.com/mjm-12/transistor-hfe-measurement-circuit")
+	)
 	(lib_symbols
 		(symbol "+5V_1"
 			(power global)
@@ -6713,7 +6722,7 @@
 			(uuid "c023305c-00a2-4e76-b115-660fa963d3b3")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0255")
 					(unit 1)
@@ -6817,7 +6826,7 @@
 			(uuid "4982ab77-f250-43d4-8583-f8192cb2ab05")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R332")
 					(unit 1)
@@ -6921,7 +6930,7 @@
 			(uuid "1ec2ae92-2b6a-4094-823c-16d3e12ee161")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R335")
 					(unit 1)
@@ -7011,7 +7020,7 @@
 			(uuid "433236ad-275f-4986-9eb4-ffea65dafb45")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0239")
 					(unit 1)
@@ -7101,7 +7110,7 @@
 			(uuid "e3405a63-c4df-4ffb-988b-a50dd8e886a9")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0241")
 					(unit 1)
@@ -7203,7 +7212,7 @@
 			(uuid "622c55b1-6230-4172-9b9a-8165684d017b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R333")
 					(unit 1)
@@ -7335,7 +7344,7 @@
 			(uuid "969e9ff3-477f-4e2a-befd-6908c753a85e")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "TP317")
 					(unit 1)
@@ -7441,7 +7450,7 @@
 			(uuid "edcd4efa-0736-44dd-9cd4-01f7a29ba9ef")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "U306")
 					(unit 1)
@@ -7592,7 +7601,7 @@
 			(uuid "0aedae5b-0de8-4ee8-a0e9-8c04d3a5eb4a")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "RV303")
 					(unit 1)
@@ -7707,7 +7716,7 @@
 			(uuid "68147b16-b94e-43d5-95e4-824be465d796")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C322")
 					(unit 1)
@@ -7811,7 +7820,7 @@
 			(uuid "f8f7fe19-b586-4400-a26f-b853fd8ead16")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R331")
 					(unit 1)
@@ -7955,7 +7964,7 @@
 			(uuid "7341fc3a-824d-42f8-9eec-146e02dae035")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "U305")
 					(unit 1)
@@ -8087,7 +8096,7 @@
 			(uuid "cd6f5fa1-3417-4a73-a049-8ce2d8586a75")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "TP320")
 					(unit 1)
@@ -8177,7 +8186,7 @@
 			(uuid "9e56efbe-0cc7-48aa-86f1-a716dfdbc877")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0258")
 					(unit 1)
@@ -8292,7 +8301,7 @@
 			(uuid "8ee1bfb3-bbbe-43f7-a69d-70ac8d4bbb8c")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C326")
 					(unit 1)
@@ -8407,7 +8416,7 @@
 			(uuid "f8697420-15c6-4420-bf74-a93a558a4b68")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C323")
 					(unit 1)
@@ -8511,7 +8520,7 @@
 			(uuid "08dfa2fc-2004-4a1b-a705-2b91fc1e6f1b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R326")
 					(unit 1)
@@ -8640,7 +8649,7 @@
 			(uuid "9f347e46-a399-4e46-b204-447be6327ce1")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "Q303")
 					(unit 2)
@@ -8744,7 +8753,7 @@
 			(uuid "1f87800a-b1f4-4902-bfcd-5a4197179847")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R328")
 					(unit 1)
@@ -8856,7 +8865,7 @@
 			(uuid "c962ae88-5166-433f-8e80-2875b88f1494")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C325")
 					(unit 1)
@@ -8992,7 +9001,7 @@
 			(uuid "f5a67168-ec66-4e0c-ac21-a8044fee2db8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C319")
 					(unit 1)
@@ -9124,7 +9133,7 @@
 			(uuid "d44934a9-fac9-41d8-9db4-f874fcc63e90")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "TP319")
 					(unit 1)
@@ -9239,7 +9248,7 @@
 			(uuid "69df8cb0-a32f-4597-8916-31b8617cc7cc")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C327")
 					(unit 1)
@@ -9375,7 +9384,7 @@
 			(uuid "a37c9576-47ed-49a0-b398-6365a26885cf")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "J310")
 					(unit 1)
@@ -9465,7 +9474,7 @@
 			(uuid "07922ab6-39dc-4ada-8515-437b1c4f8e27")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0249")
 					(unit 1)
@@ -9599,7 +9608,7 @@
 			(uuid "09d0fd8d-4ff0-412c-a2c0-8405e1d08f6e")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "J312")
 					(unit 1)
@@ -9733,7 +9742,7 @@
 			(uuid "5261730b-8aad-461b-9ad6-80f4929df979")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "J311")
 					(unit 1)
@@ -9877,7 +9886,7 @@
 			(uuid "06d70895-f23b-49b9-9c69-0624663a1349")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "U305")
 					(unit 3)
@@ -9992,7 +10001,7 @@
 			(uuid "15627f9a-bada-4b1b-98ac-ef0b177a2b52")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C321")
 					(unit 1)
@@ -10082,7 +10091,7 @@
 			(uuid "cc4a0bc9-15d5-4aa3-b181-3e1f84c91c93")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0240")
 					(unit 1)
@@ -10186,7 +10195,7 @@
 			(uuid "f20580d3-a6b3-4381-9c16-f2fa4b5e45c9")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R329")
 					(unit 1)
@@ -10276,7 +10285,7 @@
 			(uuid "e3ee3dd1-b019-4d65-9392-36fe4eb72fb1")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0253")
 					(unit 1)
@@ -10366,7 +10375,7 @@
 			(uuid "542f29b5-a9f5-40f1-941e-9ad663962ad7")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0252")
 					(unit 1)
@@ -10498,7 +10507,7 @@
 			(uuid "68afadd3-2d10-43e5-92b9-377c0a29967c")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "TP318")
 					(unit 1)
@@ -10625,7 +10634,7 @@
 			(uuid "454175ba-eb42-4182-87c5-8411708cf0a9")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "Q303")
 					(unit 1)
@@ -10749,7 +10758,7 @@
 			(uuid "1e8424b8-e91d-4b6c-9c4d-aaef82e0a4d6")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R327")
 					(unit 1)
@@ -10881,7 +10890,7 @@
 			(uuid "4751e2f6-c90e-4fc9-b8c8-af487765ebed")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "TP321")
 					(unit 1)
@@ -10983,7 +10992,7 @@
 			(uuid "2a6f01a0-b620-4070-afbb-180fcbe0e276")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R325")
 					(unit 1)
@@ -11073,7 +11082,7 @@
 			(uuid "5356e907-e638-47d0-9c13-e7c016dbc71b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0254")
 					(unit 1)
@@ -11163,7 +11172,7 @@
 			(uuid "9c0bd73a-29d2-4242-ae99-370a7ab6e130")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0250")
 					(unit 1)
@@ -11278,7 +11287,7 @@
 			(uuid "89412f78-b0ae-422c-a8f0-99670681c337")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C324")
 					(unit 1)
@@ -11368,7 +11377,7 @@
 			(uuid "258baf87-43aa-40a1-976a-8a0a42f63a71")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0207")
 					(unit 1)
@@ -11483,7 +11492,7 @@
 			(uuid "40ba6c92-3ab6-4dbe-bc15-721497ac7d62")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "C320")
 					(unit 1)
@@ -11573,7 +11582,7 @@
 			(uuid "787ad9a9-a548-4a38-aa00-e0d5f9299b7b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0208")
 					(unit 1)
@@ -11663,7 +11672,7 @@
 			(uuid "72094052-445b-47a6-aac1-fcc2c3aa1109")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0257")
 					(unit 1)
@@ -11765,7 +11774,7 @@
 			(uuid "d14f6078-ba63-45ff-aaaf-a1f3f093f2cd")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R330")
 					(unit 1)
@@ -11855,7 +11864,7 @@
 			(uuid "fbbc3d73-8a69-43ca-a6ff-7f2c93af6c9d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0256")
 					(unit 1)
@@ -11989,7 +11998,7 @@
 			(uuid "c2c84c68-899d-405a-8e4e-d034fd9ee2c3")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "J309")
 					(unit 1)
@@ -12079,7 +12088,7 @@
 			(uuid "c84aabc6-9035-4db7-a9d9-e13853905509")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0247")
 					(unit 1)
@@ -12224,7 +12233,7 @@
 			(uuid "7341fc3a-824d-42f8-9eec-146e02dae039")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "U305")
 					(unit 2)
@@ -12328,7 +12337,7 @@
 			(uuid "75e75a3c-0f40-491a-9ad3-3e7e884e30df")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R336")
 					(unit 1)
@@ -12460,7 +12469,7 @@
 			(uuid "eafa85a7-dbd8-40ba-9f15-54dd04123d8b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "TP315")
 					(unit 1)
@@ -12550,7 +12559,7 @@
 			(uuid "488c071a-909a-4915-83b1-7f707a727076")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0248")
 					(unit 1)
@@ -12652,7 +12661,7 @@
 			(uuid "d06b51b2-82ca-477b-8e93-73d244e039aa")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "R334")
 					(unit 1)
@@ -12784,7 +12793,7 @@
 			(uuid "ef5c6307-848d-42d3-8ab1-b87a2210a8db")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "TP316")
 					(unit 1)
@@ -12874,7 +12883,7 @@
 			(uuid "c76ad881-8def-4ead-bc11-8f8cf593e90a")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0259")
 					(unit 1)
@@ -12964,7 +12973,7 @@
 			(uuid "5d404dce-6f89-4239-8a85-3c7ed8839d76")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5/2c85cb28-eb2d-4b5c-b7da-c7bfdbde8221"
 					(reference "#PWR0251")
 					(unit 1)

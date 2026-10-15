@@ -255,7 +255,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "03"
+      "sch_revision": "v1.1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -505,7 +505,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "2026-05-23__constant-current-kairo.kicad_pro",
+    "filename": "transistor-hfe-measurement-circuit.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -627,324 +627,7 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+5V": [
-        "Analog",
-        "power"
-      ],
-      "+8V": [
-        "power"
-      ],
-      "+9V": [
-        "power"
-      ],
-      "-8V": [
-        "power"
-      ],
-      "/p5v": [
-        "Analog",
-        "power"
-      ],
-      "/p5v-oc": [
-        "power"
-      ],
-      "B-OUT": [
-        "Control"
-      ],
-      "BIAS15": [
-        "Control"
-      ],
-      "BIAS30": [
-        "Control"
-      ],
-      "Effect": [
-        "Control"
-      ],
-      "GNDPWR": [
-        "Analog",
-        "power"
-      ],
-      "Hum": [
-        "Control"
-      ],
-      "Net-(C13-Pad1)": [
-        "Input"
-      ],
-      "Net-(C14-Pad1)": [
-        "Analog"
-      ],
-      "Net-(C14-Pad2)": [
-        "Input"
-      ],
-      "Net-(C15-Pad2)": [
-        "Analog"
-      ],
-      "Net-(C16-Pad1)": [
-        "Input"
-      ],
-      "Net-(C6-Pad1)": [
-        "power"
-      ],
-      "Net-(D1-A)": [
-        "power"
-      ],
-      "Net-(D1-K)": [
-        "power"
-      ],
-      "Net-(D10-A)": [
-        "power"
-      ],
-      "Net-(D12-DIN)": [
-        "TIM"
-      ],
-      "Net-(D12-DO)": [
-        "TIM"
-      ],
-      "Net-(D12-VDD)": [
-        "power"
-      ],
-      "Net-(D13-A)": [
-        "Control"
-      ],
-      "Net-(D13-K)": [
-        "Control"
-      ],
-      "Net-(D14-A)": [
-        "Control"
-      ],
-      "Net-(D15-A)": [
-        "Control"
-      ],
-      "Net-(D15-K)": [
-        "Control"
-      ],
-      "Net-(D16-A)": [
-        "Control"
-      ],
-      "Net-(D17-A)": [
-        "Control"
-      ],
-      "Net-(D17-K)": [
-        "Control"
-      ],
-      "Net-(D18-A)": [
-        "Control"
-      ],
-      "Net-(D19-A)": [
-        "Control"
-      ],
-      "Net-(D19-K)": [
-        "Control"
-      ],
-      "Net-(D2-A)": [
-        "power"
-      ],
-      "Net-(D2-COM)": [
-        "power"
-      ],
-      "Net-(D20-A)": [
-        "Control"
-      ],
-      "Net-(D20-K)": [
-        "Control"
-      ],
-      "Net-(D21-A)": [
-        "Control"
-      ],
-      "Net-(D22-A)": [
-        "Control"
-      ],
-      "Net-(D22-K)": [
-        "Control"
-      ],
-      "Net-(D23-A)": [
-        "Control"
-      ],
-      "Net-(D23-K)": [
-        "Control"
-      ],
-      "Net-(D24-A)": [
-        "Control"
-      ],
-      "Net-(D24-K)": [
-        "Control"
-      ],
-      "Net-(D25-A)": [
-        "Control"
-      ],
-      "Net-(D26-A)": [
-        "power"
-      ],
-      "Net-(D26-K)": [
-        "power"
-      ],
-      "Net-(D27-A)": [
-        "power"
-      ],
-      "Net-(D3-A)": [
-        "power"
-      ],
-      "Net-(D3-K)": [
-        "power"
-      ],
-      "Net-(D4-A)": [
-        "power"
-      ],
-      "Net-(D5-A)": [
-        "power"
-      ],
-      "Net-(D7-A)": [
-        "power"
-      ],
-      "Net-(D8-A)": [
-        "power"
-      ],
-      "Net-(D9-A)": [
-        "power"
-      ],
-      "Net-(J3-In)": [
-        "Analog",
-        "narrow"
-      ],
-      "Net-(J3-Pin_2)": [
-        "USART"
-      ],
-      "Net-(J4-Pin_1)": [
-        "Control"
-      ],
-      "Net-(J4-Pin_13)": [
-        "TIM"
-      ],
-      "Net-(J4-Pin_2)": [
-        "Analog"
-      ],
-      "Net-(J4-Pin_3)": [
-        "Analog",
-        "HiZ"
-      ],
-      "Net-(J4-Pin_5)": [
-        "Control"
-      ],
-      "Net-(J4-Pin_7)": [
-        "Control"
-      ],
-      "Net-(J5-PadT)": [
-        "Input"
-      ],
-      "Net-(Q1-D)": [
-        "power"
-      ],
-      "Net-(Q1-G)": [
-        "power"
-      ],
-      "Net-(Q1-S)": [
-        "power"
-      ],
-      "Net-(Q2-B)": [
-        "power"
-      ],
-      "Net-(Q2-C)": [
-        "power"
-      ],
-      "Net-(Q4-D)": [
-        "Input"
-      ],
-      "Net-(Q4A-D)": [
-        "Analog",
-        "narrow"
-      ],
-      "Net-(Q4A-G)": [
-        "Analog",
-        "narrow"
-      ],
-      "Net-(Q4A-S)": [
-        "Analog",
-        "narrow"
-      ],
-      "Net-(Q4B-G)": [
-        "Analog",
-        "narrow"
-      ],
-      "Net-(Q4B-S)": [
-        "Analog",
-        "narrow"
-      ],
-      "Net-(Q5-D)": [
-        "Input"
-      ],
-      "Net-(Q6-D)": [
-        "Input"
-      ],
-      "Net-(R15-Pad2)": [
-        "Analog"
-      ],
-      "Net-(R18-Pad2)": [
-        "Analog"
-      ],
-      "Net-(R8-Pad2)": [
-        "power"
-      ],
-      "Net-(R90-Pad1)": [
-        "Control"
-      ],
-      "Net-(SW1A-A)": [
-        "Analog"
-      ],
-      "Net-(SW1A-C)": [
-        "Analog"
-      ],
-      "Net-(SW2A-A)": [
-        "Analog"
-      ],
-      "Net-(SW2A-C)": [
-        "Analog"
-      ],
-      "Net-(U1-ADJ)": [
-        "power"
-      ],
-      "Net-(U1-NoiseBypass)": [
-        "power"
-      ],
-      "Net-(U1-V_ADJ)": [
-        "power"
-      ],
-      "Net-(U101-NoiseBypass)": [
-        "power"
-      ],
-      "Net-(U101-V_ADJ)": [
-        "power"
-      ],
-      "Net-(U101-V_OUT)": [
-        "power"
-      ],
-      "Net-(U3A-+)": [
-        "Analog"
-      ],
-      "Net-(U3A--)": [
-        "Analog"
-      ],
-      "Net-(U3B-+)": [
-        "Input"
-      ],
-      "Net-(U3B--)": [
-        "Analog"
-      ],
-      "Net-(U4-NR)": [
-        "Analog"
-      ],
-      "Single": [
-        "Control"
-      ],
-      "VCC": [
-        "power"
-      ],
-      "Wah": [
-        "Control"
-      ],
-      "unconnected-(J1-Pad3)": [
-        "power"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "GND",
@@ -1170,18 +853,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "2026-05-23__constant-current-kairo.kicad_sch",
-        "name": "2026-05-23__constant-current-kairo",
+        "filename": "transistor-hfe-measurement-circuit.kicad_sch",
+        "name": "transistor-hfe-measurement-circuit",
         "uuid": "ca05477f-b90e-48cd-b2b9-72bab8d245c5"
       }
     ],
-    "used_designators": "C8-17,R1-7,R10-41,J2-6,Q4,TP1-10,RV1,SW1-2,U2-4,D5-14",
+    "used_designators": "R1-7,R10-41,J2-7,U2-4,TP1-10,RV1,SW1-2,Q4,C8-17,D5-14",
     "variants": []
   },
   "sheets": [
     [
       "ca05477f-b90e-48cd-b2b9-72bab8d245c5",
-      "2026-05-23__constant-current-kairo"
+      "transistor-hfe-measurement-circuit"
     ]
   ],
   "text_variables": {},

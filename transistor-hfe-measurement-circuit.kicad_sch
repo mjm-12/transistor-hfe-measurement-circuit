@@ -5,9 +5,13 @@
 	(uuid "ca05477f-b90e-48cd-b2b9-72bab8d245c5")
 	(paper "A3")
 	(title_block
-		(title "Anthracite (Top)")
-		(date "2025-12-04")
-		(rev "03")
+		(title "Transistor hFE Measurement Circuit Schematic")
+		(date "2026-10-15")
+		(rev "v1.1")
+		(company "Hayata Yamamoto")
+		(comment 1 "Copyright 2026 Hayata Yamamoto")
+		(comment 2 "Licensed under CERN-OHL-P v2")
+		(comment 3 "Source: github.com/mjm-12/transistor-hfe-measurement-circuit")
 	)
 	(lib_symbols
 		(symbol "+5V_1"
@@ -9716,7 +9720,7 @@
 	)
 	(text "C B E\n\nE C B"
 		(exclude_from_sim no)
-		(at 258.826 69.85 0)
+		(at 258.826 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9725,7 +9729,7 @@
 		(uuid "7ba27efc-f953-4307-8ba8-645393ed93e4")
 	)
 	(junction
-		(at 204.47 69.85)
+		(at 204.47 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00650de0-b9cd-48e9-b542-4fc2d4a6b26a")
@@ -9755,7 +9759,7 @@
 		(uuid "114a8ccc-5cc6-4863-9dfb-6f0500df079d")
 	)
 	(junction
-		(at 142.24 73.66)
+		(at 142.24 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11658168-7443-484e-a69e-8d654631e23f")
@@ -9803,7 +9807,7 @@
 		(uuid "35526a8d-f2b0-412b-848d-471481334c7d")
 	)
 	(junction
-		(at 158.75 66.04)
+		(at 158.75 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3ad13210-a985-4150-8f53-22b0f4f48d10")
@@ -9815,7 +9819,7 @@
 		(uuid "40a5b2a3-b6d7-4a67-9447-2d31b65aecfe")
 	)
 	(junction
-		(at 208.28 24.13)
+		(at 208.28 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46057098-d3b6-4d46-8df8-4bb5b3d01e3f")
@@ -9833,7 +9837,7 @@
 		(uuid "468b690d-96fc-4af6-9f9b-95391bfcb8c6")
 	)
 	(junction
-		(at 194.31 63.5)
+		(at 194.31 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47c0b669-61c5-4b8b-9cc1-a20169485036")
@@ -9893,25 +9897,25 @@
 		(uuid "6668813b-ed6c-4d38-a089-2347b0703262")
 	)
 	(junction
-		(at 109.22 71.12)
+		(at 109.22 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69f05df9-a094-4c18-aa9e-d89d8c57ea2c")
 	)
 	(junction
-		(at 152.4 86.36)
+		(at 152.4 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a5c144e-54ab-44c0-818d-d6df74d3c721")
 	)
 	(junction
-		(at 241.3 81.28)
+		(at 241.3 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75a5c268-70e8-45d5-b94a-249f8e5f4d33")
 	)
 	(junction
-		(at 246.38 48.26)
+		(at 246.38 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7eba2e1d-5023-40dc-b554-146fb9847e03")
@@ -9923,7 +9927,7 @@
 		(uuid "800a7e3a-12bf-44da-b645-128e726c99d8")
 	)
 	(junction
-		(at 132.08 73.66)
+		(at 132.08 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "811792f5-6899-4ba6-849f-1eb7c550b792")
@@ -9935,7 +9939,7 @@
 		(uuid "84654a51-362d-4e1b-a702-5f78d986c5fa")
 	)
 	(junction
-		(at 246.38 55.88)
+		(at 246.38 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "894df985-cf97-42fe-b20e-639614876be5")
@@ -9995,19 +9999,19 @@
 		(uuid "a9c56a7e-4a79-48c9-b84a-79c6410f7764")
 	)
 	(junction
-		(at 204.47 49.53)
+		(at 204.47 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab5cd06a-a41e-485f-9a5b-e92773c5359c")
 	)
 	(junction
-		(at 220.98 24.13)
+		(at 220.98 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abbf4a53-8d1d-4f13-8cc8-78a3c9e25026")
 	)
 	(junction
-		(at 162.56 55.88)
+		(at 162.56 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "add28f1f-3281-4945-9921-39717a33488f")
@@ -10031,19 +10035,19 @@
 		(uuid "be99efc9-9188-4565-a318-019ae33f74be")
 	)
 	(junction
-		(at 78.74 58.42)
+		(at 78.74 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c1571110-de0e-45bc-883f-7adf91157f9e")
 	)
 	(junction
-		(at 132.08 86.36)
+		(at 132.08 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3b8b5b1-a55e-46e7-9d22-f1850fb64e55")
 	)
 	(junction
-		(at 255.27 55.88)
+		(at 255.27 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c454ea0a-63b6-4b61-b755-1fe9dc4d7460")
@@ -10055,25 +10059,25 @@
 		(uuid "c86437ec-67f6-49df-a3fc-e1e851b36f2d")
 	)
 	(junction
-		(at 237.49 81.28)
+		(at 237.49 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4e7fad9-b7dc-4a80-8c7a-d9b29d99a479")
 	)
 	(junction
-		(at 182.88 63.5)
+		(at 182.88 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d655c0d2-8eed-4fee-9cb2-8860715aa1ee")
 	)
 	(junction
-		(at 43.18 74.93)
+		(at 43.18 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d93f6182-ff7b-4bfc-8652-08b4adb10dfa")
 	)
 	(junction
-		(at 31.75 29.21)
+		(at 31.75 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbdb3ee1-b21a-4177-b67d-fd7e7c473610")
@@ -10091,13 +10095,13 @@
 		(uuid "e088c4fa-a8f7-4530-9f2e-4c5343387508")
 	)
 	(junction
-		(at 152.4 66.04)
+		(at 152.4 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e3cc3cea-aeaf-4fee-8e48-7995007e3b69")
 	)
 	(junction
-		(at 104.14 71.12)
+		(at 104.14 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec26756b-28d7-4df9-9f83-281e7c5bf96e")
@@ -10109,7 +10113,7 @@
 		(uuid "eec7a216-2466-49b2-bff3-83194321c841")
 	)
 	(junction
-		(at 220.98 69.85)
+		(at 220.98 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "efa1ca14-970f-46ce-8014-7810047894b3")
@@ -10121,7 +10125,7 @@
 		(uuid "f20e67f6-5eee-46cc-8cd3-1eba1f0f5e7a")
 	)
 	(junction
-		(at 100.33 71.12)
+		(at 100.33 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f287e570-a4a9-4781-a3a1-06cb60448adf")
@@ -10133,7 +10137,7 @@
 		(uuid "f9b8a94f-da1a-45e6-9f63-5d1e45895b63")
 	)
 	(junction
-		(at 152.4 55.88)
+		(at 152.4 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fab995bd-9847-44e2-b3a8-7ba8dee8bdf4")
@@ -10154,7 +10158,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 55.88) (xy 255.27 55.88)
+			(xy 246.38 62.23) (xy 255.27 62.23)
 		)
 		(stroke
 			(width 0)
@@ -10174,7 +10178,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 58.42) (xy 266.7 55.88)
+			(xy 266.7 64.77) (xy 266.7 62.23)
 		)
 		(stroke
 			(width 0)
@@ -10184,7 +10188,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 71.12) (xy 104.14 71.12)
+			(xy 100.33 77.47) (xy 104.14 77.47)
 		)
 		(stroke
 			(width 0)
@@ -10234,7 +10238,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 73.66) (xy 142.24 73.66)
+			(xy 140.97 80.01) (xy 142.24 80.01)
 		)
 		(stroke
 			(width 0)
@@ -10254,7 +10258,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 29.21) (xy 31.75 30.48)
+			(xy 31.75 35.56) (xy 31.75 36.83)
 		)
 		(stroke
 			(width 0)
@@ -10274,7 +10278,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 25.4) (xy 220.98 24.13)
+			(xy 220.98 31.75) (xy 220.98 30.48)
 		)
 		(stroke
 			(width 0)
@@ -10284,7 +10288,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 86.36) (xy 115.57 86.36)
+			(xy 132.08 92.71) (xy 115.57 92.71)
 		)
 		(stroke
 			(width 0)
@@ -10294,7 +10298,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 59.69) (xy 43.18 59.69)
+			(xy 34.29 66.04) (xy 43.18 66.04)
 		)
 		(stroke
 			(width 0)
@@ -10304,7 +10308,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 59.69) (xy 66.04 58.42)
+			(xy 66.04 66.04) (xy 66.04 64.77)
 		)
 		(stroke
 			(width 0)
@@ -10324,7 +10328,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 69.85) (xy 204.47 71.12)
+			(xy 204.47 76.2) (xy 204.47 77.47)
 		)
 		(stroke
 			(width 0)
@@ -10384,7 +10388,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 49.53) (xy 162.56 55.88)
+			(xy 162.56 55.88) (xy 162.56 62.23)
 		)
 		(stroke
 			(width 0)
@@ -10394,7 +10398,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 73.66) (xy 142.24 74.93)
+			(xy 142.24 80.01) (xy 142.24 81.28)
 		)
 		(stroke
 			(width 0)
@@ -10404,7 +10408,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 83.82) (xy 132.08 86.36)
+			(xy 132.08 90.17) (xy 132.08 92.71)
 		)
 		(stroke
 			(width 0)
@@ -10414,7 +10418,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 63.5) (xy 182.88 55.88)
+			(xy 182.88 69.85) (xy 182.88 62.23)
 		)
 		(stroke
 			(width 0)
@@ -10434,7 +10438,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 29.21) (xy 22.86 29.21)
+			(xy 19.05 35.56) (xy 22.86 35.56)
 		)
 		(stroke
 			(width 0)
@@ -10444,7 +10448,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 60.96) (xy 158.75 60.96)
+			(xy 156.21 67.31) (xy 158.75 67.31)
 		)
 		(stroke
 			(width 0)
@@ -10454,7 +10458,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 49.53) (xy 162.56 49.53)
+			(xy 163.83 55.88) (xy 162.56 55.88)
 		)
 		(stroke
 			(width 0)
@@ -10484,7 +10488,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 66.04) (xy 163.83 66.04)
+			(xy 158.75 72.39) (xy 163.83 72.39)
 		)
 		(stroke
 			(width 0)
@@ -10494,7 +10498,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 55.88) (xy 162.56 60.96)
+			(xy 162.56 62.23) (xy 162.56 67.31)
 		)
 		(stroke
 			(width 0)
@@ -10504,7 +10508,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 76.2) (xy 115.57 86.36)
+			(xy 115.57 82.55) (xy 115.57 92.71)
 		)
 		(stroke
 			(width 0)
@@ -10514,7 +10518,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 76.2) (xy 251.46 81.28)
+			(xy 251.46 82.55) (xy 251.46 87.63)
 		)
 		(stroke
 			(width 0)
@@ -10524,7 +10528,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 71.12) (xy 116.84 71.12)
+			(xy 109.22 77.47) (xy 116.84 77.47)
 		)
 		(stroke
 			(width 0)
@@ -10534,7 +10538,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 24.13) (xy 220.98 24.13)
+			(xy 208.28 30.48) (xy 220.98 30.48)
 		)
 		(stroke
 			(width 0)
@@ -10544,7 +10548,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 63.5) (xy 185.42 63.5)
+			(xy 182.88 69.85) (xy 185.42 69.85)
 		)
 		(stroke
 			(width 0)
@@ -10554,7 +10558,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 67.31) (xy 220.98 69.85)
+			(xy 220.98 73.66) (xy 220.98 76.2)
 		)
 		(stroke
 			(width 0)
@@ -10564,7 +10568,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 76.2) (xy 248.92 78.74)
+			(xy 248.92 82.55) (xy 248.92 85.09)
 		)
 		(stroke
 			(width 0)
@@ -10594,7 +10598,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 35.56) (xy 208.28 35.56)
+			(xy 207.01 41.91) (xy 208.28 41.91)
 		)
 		(stroke
 			(width 0)
@@ -10634,7 +10638,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 24.13) (xy 208.28 26.67)
+			(xy 208.28 30.48) (xy 208.28 33.02)
 		)
 		(stroke
 			(width 0)
@@ -10644,7 +10648,17 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 69.85) (xy 220.98 69.85)
+			(xy 227.33 87.63) (xy 237.49 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3537cf97-0aa4-4387-a19b-77107896b3f9")
+	)
+	(wire
+		(pts
+			(xy 204.47 76.2) (xy 220.98 76.2)
 		)
 		(stroke
 			(width 0)
@@ -10654,7 +10668,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 71.12) (xy 60.96 69.85)
+			(xy 60.96 77.47) (xy 60.96 76.2)
 		)
 		(stroke
 			(width 0)
@@ -10664,7 +10678,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 71.12) (xy 100.33 72.39)
+			(xy 100.33 77.47) (xy 100.33 78.74)
 		)
 		(stroke
 			(width 0)
@@ -10684,7 +10698,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 55.88) (xy 152.4 57.15)
+			(xy 152.4 62.23) (xy 152.4 63.5)
 		)
 		(stroke
 			(width 0)
@@ -10714,7 +10728,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 58.42) (xy 237.49 81.28)
+			(xy 237.49 64.77) (xy 237.49 87.63)
 		)
 		(stroke
 			(width 0)
@@ -10724,7 +10738,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 73.66) (xy 144.78 73.66)
+			(xy 142.24 80.01) (xy 144.78 80.01)
 		)
 		(stroke
 			(width 0)
@@ -10734,7 +10748,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 68.58) (xy 204.47 69.85)
+			(xy 204.47 74.93) (xy 204.47 76.2)
 		)
 		(stroke
 			(width 0)
@@ -10774,7 +10788,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 63.5) (xy 194.31 63.5)
+			(xy 193.04 69.85) (xy 194.31 69.85)
 		)
 		(stroke
 			(width 0)
@@ -10794,7 +10808,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 34.29) (xy 208.28 35.56)
+			(xy 208.28 40.64) (xy 208.28 41.91)
 		)
 		(stroke
 			(width 0)
@@ -10824,7 +10838,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 63.5) (xy 34.29 59.69)
+			(xy 34.29 69.85) (xy 34.29 66.04)
 		)
 		(stroke
 			(width 0)
@@ -10844,7 +10858,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 71.12) (xy 109.22 72.39)
+			(xy 109.22 77.47) (xy 109.22 78.74)
 		)
 		(stroke
 			(width 0)
@@ -10854,7 +10868,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 111.76) (xy 149.86 113.03)
+			(xy 149.86 118.11) (xy 149.86 119.38)
 		)
 		(stroke
 			(width 0)
@@ -10894,7 +10908,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 33.02) (xy 220.98 34.29)
+			(xy 220.98 39.37) (xy 220.98 40.64)
 		)
 		(stroke
 			(width 0)
@@ -10914,7 +10928,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 71.12) (xy 71.12 71.12)
+			(xy 60.96 77.47) (xy 71.12 77.47)
 		)
 		(stroke
 			(width 0)
@@ -10924,7 +10938,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 81.28) (xy 251.46 81.28)
+			(xy 241.3 87.63) (xy 251.46 87.63)
 		)
 		(stroke
 			(width 0)
@@ -10954,7 +10968,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 104.14) (xy 158.75 101.6)
+			(xy 158.75 110.49) (xy 158.75 107.95)
 		)
 		(stroke
 			(width 0)
@@ -10964,7 +10978,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 73.66) (xy 133.35 73.66)
+			(xy 132.08 80.01) (xy 133.35 80.01)
 		)
 		(stroke
 			(width 0)
@@ -10984,7 +10998,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 45.72) (xy 152.4 46.99)
+			(xy 152.4 52.07) (xy 152.4 53.34)
 		)
 		(stroke
 			(width 0)
@@ -11014,7 +11028,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 101.6) (xy 149.86 104.14)
+			(xy 149.86 107.95) (xy 149.86 110.49)
 		)
 		(stroke
 			(width 0)
@@ -11094,7 +11108,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 74.93) (xy 90.17 73.66)
+			(xy 90.17 81.28) (xy 90.17 80.01)
 		)
 		(stroke
 			(width 0)
@@ -11104,7 +11118,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 55.88) (xy 246.38 63.5)
+			(xy 246.38 62.23) (xy 246.38 69.85)
 		)
 		(stroke
 			(width 0)
@@ -11114,7 +11128,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 71.12) (xy 109.22 71.12)
+			(xy 104.14 77.47) (xy 109.22 77.47)
 		)
 		(stroke
 			(width 0)
@@ -11124,7 +11138,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 45.72) (xy 143.51 46.99)
+			(xy 143.51 52.07) (xy 143.51 53.34)
 		)
 		(stroke
 			(width 0)
@@ -11154,7 +11168,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 83.82) (xy 90.17 82.55)
+			(xy 90.17 90.17) (xy 90.17 88.9)
 		)
 		(stroke
 			(width 0)
@@ -11204,7 +11218,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 64.77) (xy 152.4 66.04)
+			(xy 152.4 71.12) (xy 152.4 72.39)
 		)
 		(stroke
 			(width 0)
@@ -11244,7 +11258,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 57.15) (xy 78.74 58.42)
+			(xy 78.74 63.5) (xy 78.74 64.77)
 		)
 		(stroke
 			(width 0)
@@ -11284,7 +11298,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 66.04) (xy 152.4 66.04)
+			(xy 158.75 72.39) (xy 152.4 72.39)
 		)
 		(stroke
 			(width 0)
@@ -11294,7 +11308,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 35.56) (xy 201.93 36.83)
+			(xy 201.93 41.91) (xy 201.93 43.18)
 		)
 		(stroke
 			(width 0)
@@ -11314,7 +11328,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 49.53) (xy 204.47 58.42)
+			(xy 204.47 55.88) (xy 204.47 64.77)
 		)
 		(stroke
 			(width 0)
@@ -11354,7 +11368,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 55.88) (xy 179.07 55.88)
+			(xy 182.88 62.23) (xy 179.07 62.23)
 		)
 		(stroke
 			(width 0)
@@ -11364,7 +11378,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 55.88) (xy 162.56 55.88)
+			(xy 171.45 62.23) (xy 162.56 62.23)
 		)
 		(stroke
 			(width 0)
@@ -11384,7 +11398,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 27.94) (xy 19.05 29.21)
+			(xy 19.05 34.29) (xy 19.05 35.56)
 		)
 		(stroke
 			(width 0)
@@ -11394,7 +11408,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 78.74) (xy 255.27 55.88)
+			(xy 255.27 85.09) (xy 255.27 62.23)
 		)
 		(stroke
 			(width 0)
@@ -11444,7 +11458,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 48.26) (xy 269.24 48.26)
+			(xy 246.38 54.61) (xy 269.24 54.61)
 		)
 		(stroke
 			(width 0)
@@ -11454,7 +11468,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 58.42) (xy 78.74 63.5)
+			(xy 78.74 64.77) (xy 78.74 69.85)
 		)
 		(stroke
 			(width 0)
@@ -11464,7 +11478,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 66.04) (xy 194.31 63.5)
+			(xy 194.31 72.39) (xy 194.31 69.85)
 		)
 		(stroke
 			(width 0)
@@ -11494,7 +11508,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 81.28) (xy 241.3 81.28)
+			(xy 237.49 87.63) (xy 241.3 87.63)
 		)
 		(stroke
 			(width 0)
@@ -11514,7 +11528,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 36.83) (xy 152.4 38.1)
+			(xy 152.4 43.18) (xy 152.4 44.45)
 		)
 		(stroke
 			(width 0)
@@ -11534,7 +11548,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 86.36) (xy 152.4 86.36)
+			(xy 151.13 92.71) (xy 152.4 92.71)
 		)
 		(stroke
 			(width 0)
@@ -11544,7 +11558,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 63.5) (xy 248.92 58.42)
+			(xy 248.92 69.85) (xy 248.92 64.77)
 		)
 		(stroke
 			(width 0)
@@ -11554,7 +11568,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 46.99) (xy 204.47 49.53)
+			(xy 204.47 53.34) (xy 204.47 55.88)
 		)
 		(stroke
 			(width 0)
@@ -11564,7 +11578,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 86.36) (xy 152.4 91.44)
+			(xy 152.4 92.71) (xy 152.4 97.79)
 		)
 		(stroke
 			(width 0)
@@ -11594,7 +11608,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 76.2) (xy 116.84 76.2)
+			(xy 115.57 82.55) (xy 116.84 82.55)
 		)
 		(stroke
 			(width 0)
@@ -11604,7 +11618,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 74.93) (xy 34.29 71.12)
+			(xy 34.29 81.28) (xy 34.29 77.47)
 		)
 		(stroke
 			(width 0)
@@ -11634,7 +11648,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 74.93) (xy 34.29 74.93)
+			(xy 43.18 81.28) (xy 34.29 81.28)
 		)
 		(stroke
 			(width 0)
@@ -11704,7 +11718,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 24.13) (xy 199.39 26.67)
+			(xy 199.39 30.48) (xy 199.39 33.02)
 		)
 		(stroke
 			(width 0)
@@ -11744,7 +11758,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 78.74) (xy 152.4 86.36)
+			(xy 152.4 85.09) (xy 152.4 92.71)
 		)
 		(stroke
 			(width 0)
@@ -11764,7 +11778,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 35.56) (xy 201.93 35.56)
+			(xy 199.39 41.91) (xy 201.93 41.91)
 		)
 		(stroke
 			(width 0)
@@ -11784,7 +11798,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 63.5) (xy 196.85 63.5)
+			(xy 194.31 69.85) (xy 196.85 69.85)
 		)
 		(stroke
 			(width 0)
@@ -11794,23 +11808,13 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 55.88) (xy 143.51 54.61)
+			(xy 143.51 62.23) (xy 143.51 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b2b109d0-c24d-43ac-b164-fe3690d3f97f")
-	)
-	(wire
-		(pts
-			(xy 204.47 81.28) (xy 237.49 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3cc556c-05fa-4345-83c2-4cc5786233c8")
 	)
 	(wire
 		(pts
@@ -11834,7 +11838,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 101.6) (xy 158.75 101.6)
+			(xy 154.94 107.95) (xy 158.75 107.95)
 		)
 		(stroke
 			(width 0)
@@ -11854,7 +11858,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 35.56) (xy 207.01 36.83)
+			(xy 207.01 41.91) (xy 207.01 43.18)
 		)
 		(stroke
 			(width 0)
@@ -11864,7 +11868,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 73.66) (xy 86.36 73.66)
+			(xy 90.17 80.01) (xy 86.36 80.01)
 		)
 		(stroke
 			(width 0)
@@ -11904,13 +11908,23 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 73.66) (xy 132.08 76.2)
+			(xy 132.08 80.01) (xy 132.08 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bb694a5a-a140-4cbf-9d4f-61bceb461fcc")
+	)
+	(wire
+		(pts
+			(xy 227.33 81.28) (xy 227.33 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb773233-27ea-465b-b899-04de0a5e8316")
 	)
 	(wire
 		(pts
@@ -11954,7 +11968,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 29.21) (xy 36.83 29.21)
+			(xy 31.75 35.56) (xy 36.83 35.56)
 		)
 		(stroke
 			(width 0)
@@ -11994,7 +12008,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 69.85) (xy 222.25 69.85)
+			(xy 220.98 76.2) (xy 222.25 76.2)
 		)
 		(stroke
 			(width 0)
@@ -12014,7 +12028,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 111.76) (xy 158.75 113.03)
+			(xy 158.75 118.11) (xy 158.75 119.38)
 		)
 		(stroke
 			(width 0)
@@ -12074,7 +12088,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 60.96) (xy 158.75 66.04)
+			(xy 158.75 67.31) (xy 158.75 72.39)
 		)
 		(stroke
 			(width 0)
@@ -12164,7 +12178,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 60.96) (xy 163.83 60.96)
+			(xy 162.56 67.31) (xy 163.83 67.31)
 		)
 		(stroke
 			(width 0)
@@ -12174,7 +12188,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 58.42) (xy 237.49 58.42)
+			(xy 248.92 64.77) (xy 237.49 64.77)
 		)
 		(stroke
 			(width 0)
@@ -12184,7 +12198,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 29.21) (xy 31.75 29.21)
+			(xy 30.48 35.56) (xy 31.75 35.56)
 		)
 		(stroke
 			(width 0)
@@ -12204,7 +12218,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 66.04) (xy 152.4 68.58)
+			(xy 152.4 72.39) (xy 152.4 74.93)
 		)
 		(stroke
 			(width 0)
@@ -12264,7 +12278,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 34.29) (xy 269.24 34.29)
+			(xy 246.38 40.64) (xy 269.24 40.64)
 		)
 		(stroke
 			(width 0)
@@ -12274,7 +12288,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 55.88) (xy 266.7 55.88)
+			(xy 255.27 62.23) (xy 266.7 62.23)
 		)
 		(stroke
 			(width 0)
@@ -12334,17 +12348,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 81.28) (xy 204.47 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e41a727e-7983-4da3-a002-9e43c4343d65")
-	)
-	(wire
-		(pts
-			(xy 199.39 24.13) (xy 208.28 24.13)
+			(xy 199.39 30.48) (xy 208.28 30.48)
 		)
 		(stroke
 			(width 0)
@@ -12364,7 +12368,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 34.29) (xy 246.38 48.26)
+			(xy 246.38 40.64) (xy 246.38 54.61)
 		)
 		(stroke
 			(width 0)
@@ -12374,7 +12378,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 63.5) (xy 182.88 63.5)
+			(xy 179.07 69.85) (xy 182.88 69.85)
 		)
 		(stroke
 			(width 0)
@@ -12414,7 +12418,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 54.61) (xy 152.4 55.88)
+			(xy 152.4 60.96) (xy 152.4 62.23)
 		)
 		(stroke
 			(width 0)
@@ -12454,7 +12458,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 78.74) (xy 255.27 78.74)
+			(xy 248.92 85.09) (xy 255.27 85.09)
 		)
 		(stroke
 			(width 0)
@@ -12474,7 +12478,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 86.36) (xy 132.08 86.36)
+			(xy 143.51 92.71) (xy 132.08 92.71)
 		)
 		(stroke
 			(width 0)
@@ -12484,7 +12488,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 48.26) (xy 246.38 55.88)
+			(xy 246.38 54.61) (xy 246.38 62.23)
 		)
 		(stroke
 			(width 0)
@@ -12504,7 +12508,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 49.53) (xy 204.47 49.53)
+			(xy 171.45 55.88) (xy 204.47 55.88)
 		)
 		(stroke
 			(width 0)
@@ -12534,7 +12538,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 71.12) (xy 100.33 71.12)
+			(xy 86.36 77.47) (xy 100.33 77.47)
 		)
 		(stroke
 			(width 0)
@@ -12574,7 +12578,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 55.88) (xy 143.51 55.88)
+			(xy 152.4 62.23) (xy 143.51 62.23)
 		)
 		(stroke
 			(width 0)
@@ -12594,7 +12598,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 66.04) (xy 266.7 67.31)
+			(xy 266.7 72.39) (xy 266.7 73.66)
 		)
 		(stroke
 			(width 0)
@@ -12614,7 +12618,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 34.29) (xy 199.39 35.56)
+			(xy 199.39 40.64) (xy 199.39 41.91)
 		)
 		(stroke
 			(width 0)
@@ -12624,7 +12628,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 58.42) (xy 78.74 58.42)
+			(xy 66.04 64.77) (xy 78.74 64.77)
 		)
 		(stroke
 			(width 0)
@@ -12644,7 +12648,7 @@
 	)
 	(hierarchical_label "p5v"
 		(shape input)
-		(at 143.51 45.72 90)
+		(at 143.51 52.07 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12655,7 +12659,7 @@
 	)
 	(hierarchical_label "p5v"
 		(shape input)
-		(at 199.39 24.13 90)
+		(at 199.39 30.48 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12666,7 +12670,7 @@
 	)
 	(hierarchical_label "p5v"
 		(shape input)
-		(at 43.18 59.69 90)
+		(at 43.18 66.04 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12677,7 +12681,7 @@
 	)
 	(hierarchical_label "p5v"
 		(shape input)
-		(at 152.4 36.83 90)
+		(at 152.4 43.18 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12688,7 +12692,7 @@
 	)
 	(hierarchical_label "p5v"
 		(shape input)
-		(at 78.74 57.15 90)
+		(at 78.74 63.5 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12699,7 +12703,7 @@
 	)
 	(hierarchical_label "p5v"
 		(shape input)
-		(at 36.83 29.21 0)
+		(at 36.83 35.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12710,7 +12714,7 @@
 	)
 	(hierarchical_label "p5v"
 		(shape input)
-		(at 60.96 69.85 90)
+		(at 60.96 76.2 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12760,7 +12764,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 204.47 54.61 90)
+		(at 204.47 60.96 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12770,7 +12774,7 @@
 		)
 		(uuid "16e05d57-8755-4739-b3ed-bb7497b4b53a")
 		(property "ネットクラス" "narrow"
-			(at 201.93 53.9115 90)
+			(at 201.93 60.2615 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12782,7 +12786,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 128.27 41.91 0)
+			(at 128.27 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12796,7 +12800,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 143.51 73.66 0)
+		(at 143.51 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12806,7 +12810,7 @@
 		)
 		(uuid "261f2530-72d6-44e8-8b69-4a030de08fc5")
 		(property "ネットクラス" "narrow"
-			(at 144.2085 71.12 0)
+			(at 144.2085 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12818,7 +12822,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 67.31 60.96 0)
+			(at 67.31 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12832,8 +12836,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 212.09 81.28 0)
-		(fields_autoplaced yes)
+		(at 227.33 87.63 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12842,7 +12845,7 @@
 		)
 		(uuid "272b0877-bedc-4ced-914c-6fcfdeb528cc")
 		(property "ネットクラス" "HiZ"
-			(at 212.7885 78.74 0)
+			(at 220.472 87.884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12853,7 +12856,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 135.89 68.58 0)
+			(at 151.13 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12867,7 +12870,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 196.85 63.5 0)
+		(at 196.85 69.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12877,7 +12880,7 @@
 		)
 		(uuid "4438c13a-6979-414a-b487-c5e7fd13733a")
 		(property "ネットクラス" "narrow"
-			(at 197.5485 60.96 0)
+			(at 197.5485 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12889,7 +12892,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 120.65 50.8 0)
+			(at 120.65 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12938,7 +12941,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 158.75 66.04 180)
+		(at 158.75 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12948,7 +12951,7 @@
 		)
 		(uuid "5e32e125-1053-44c1-9854-83951fc45d50")
 		(property "ネットクラス" "narrow"
-			(at 159.4485 68.58 0)
+			(at 159.4485 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12960,7 +12963,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 82.55 53.34 0)
+			(at 82.55 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13009,7 +13012,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 152.4 80.01 270)
+		(at 152.4 86.36 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13019,7 +13022,7 @@
 		)
 		(uuid "9471e5ee-ccfa-43e7-9003-ec83d506766e")
 		(property "ネットクラス" "narrow"
-			(at 154.94 79.3115 90)
+			(at 154.94 85.6615 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13031,7 +13034,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 76.2 67.31 0)
+			(at 76.2 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13045,7 +13048,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 204.47 69.85 90)
+		(at 204.47 76.2 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13055,7 +13058,7 @@
 		)
 		(uuid "b3dbafa4-fe53-45ce-874a-925c1a78a91a")
 		(property "ネットクラス" "narrow"
-			(at 201.93 69.1515 90)
+			(at 201.93 75.5015 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13067,7 +13070,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 128.27 57.15 0)
+			(at 128.27 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13081,7 +13084,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 31.75 29.21 0)
+		(at 31.75 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13091,7 +13094,7 @@
 		)
 		(uuid "d6d153d9-26cd-4430-803d-2e1f036cc374")
 		(property "ネットクラス" "power"
-			(at 32.4485 26.67 0)
+			(at 32.4485 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13102,7 +13105,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 149.86 -109.22 0)
+			(at 149.86 -102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13115,7 +13118,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:Q_Dual_NMOS_PMOS_G1S2G2D2S1D1")
-		(at 149.86 73.66 0)
+		(at 149.86 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13125,7 +13128,7 @@
 		(dnp no)
 		(uuid "006b95b8-7f68-40a9-8ef2-801c1f1a3bf5")
 		(property "Reference" "Q4"
-			(at 154.94 71.882 0)
+			(at 154.94 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13136,7 +13139,7 @@
 			)
 		)
 		(property "Value" "SSM6L56FE"
-			(at 154.94 73.914 0)
+			(at 154.94 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13147,7 +13150,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-563"
-			(at 149.86 73.66 0)
+			(at 149.86 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13158,7 +13161,7 @@
 			)
 		)
 		(property "Datasheet" "https://toshiba.semicon-storage.com/info/SSM6L56FE_datasheet_ja_20190801.pdf"
-			(at 149.86 73.66 0)
+			(at 149.86 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13169,7 +13172,7 @@
 			)
 		)
 		(property "Description" "Dual NMOS PMOS transistor, 6 pin package"
-			(at 149.86 73.66 0)
+			(at 149.86 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13180,7 +13183,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 149.86 73.66 0)
+			(at 149.86 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13191,7 +13194,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 149.86 73.66 0)
+			(at 149.86 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13202,7 +13205,7 @@
 			)
 		)
 		(property "LCSC" "C17604697"
-			(at 149.86 73.66 0)
+			(at 149.86 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13231,7 +13234,7 @@
 			(uuid "27b217b9-0a7f-4ff0-9804-c24181f3d124")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "Q4")
 					(unit 1)
@@ -13309,7 +13312,7 @@
 			(uuid "6ec6d490-f0eb-4e78-95b4-84cc73a31dc4")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0227")
 					(unit 1)
@@ -13400,7 +13403,7 @@
 			(uuid "bacae33e-bd0b-4fa9-88e3-115cc8dad432")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D9")
 					(unit 1)
@@ -13410,7 +13413,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_10Meg_Vertical")
-		(at 142.24 78.74 0)
+		(at 142.24 85.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13420,7 +13423,7 @@
 		(dnp no)
 		(uuid "032f1115-c682-441c-88ec-0c9f35a1eabe")
 		(property "Reference" "R14"
-			(at 143.51 77.216 0)
+			(at 143.51 83.566 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13431,7 +13434,7 @@
 			)
 		)
 		(property "Value" "10M"
-			(at 143.51 80.264 0)
+			(at 143.51 86.614 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13442,7 +13445,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 140.462 78.74 90)
+			(at 140.462 85.09 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13453,7 +13456,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C7250"
-			(at 142.24 78.74 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13464,7 +13467,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100mW 10MΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 142.24 78.74 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13475,7 +13478,7 @@
 			)
 		)
 		(property "LCSC" "C7250"
-			(at 142.24 78.74 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13492,7 +13495,7 @@
 			(uuid "3a2562e1-e190-4fcd-ab8d-f4d8506ef209")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R14")
 					(unit 1)
@@ -13502,7 +13505,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 227.33 69.85 0)
+		(at 227.33 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13512,7 +13515,7 @@
 		(dnp no)
 		(uuid "041a6b8b-1e85-47e7-9180-491416f95dc9")
 		(property "Reference" "J3"
-			(at 227.584 66.802 0)
+			(at 227.584 73.152 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13522,7 +13525,7 @@
 			)
 		)
 		(property "Value" "B-057-HP"
-			(at 219.964 71.882 0)
+			(at 219.964 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13532,7 +13535,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:COSMTEC_B-057-HP"
-			(at 227.33 69.85 0)
+			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13543,7 +13546,7 @@
 			)
 		)
 		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g100134/"
-			(at 227.33 69.85 0)
+			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13554,7 +13557,7 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 227.33 69.85 0)
+			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13565,7 +13568,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 227.33 69.85 0)
+			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13576,7 +13579,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 227.33 69.85 0)
+			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13587,7 +13590,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 227.33 69.85 0)
+			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13598,7 +13601,7 @@
 			)
 		)
 		(property "Name" "Source"
-			(at 221.488 73.66 0)
+			(at 221.488 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13614,7 +13617,7 @@
 			(uuid "2abc5733-cab0-467a-b1f8-110c7eb77613")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "J3")
 					(unit 1)
@@ -13624,7 +13627,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DPDT_x2")
-		(at 204.47 41.91 90)
+		(at 204.47 48.26 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13634,7 +13637,7 @@
 		(dnp no)
 		(uuid "04b56b7a-e8a8-409d-a676-a9fe85acace6")
 		(property "Reference" "SW2"
-			(at 213.36 40.64 90)
+			(at 213.36 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13644,7 +13647,7 @@
 			)
 		)
 		(property "Value" "SW_DPDT_x2"
-			(at 214.884 43.942 90)
+			(at 214.884 50.292 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13654,7 +13657,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:SW_NKK_SS22SDP2"
-			(at 204.47 41.91 0)
+			(at 204.47 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13665,7 +13668,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 41.91 0)
+			(at 204.47 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13676,7 +13679,7 @@
 			)
 		)
 		(property "Description" "Switch, dual pole double throw, separate symbols"
-			(at 204.47 41.91 0)
+			(at 204.47 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13705,7 +13708,7 @@
 			(uuid "eacd1509-cb94-4ae3-9870-20ad4f3d0bb4")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "SW2")
 					(unit 1)
@@ -13715,7 +13718,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_1Meg_Vertical")
-		(at 109.22 76.2 0)
+		(at 109.22 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13725,7 +13728,7 @@
 		(dnp no)
 		(uuid "05195a4f-547d-4d10-89ef-1bfc67eec656")
 		(property "Reference" "R12"
-			(at 110.49 74.676 0)
+			(at 110.49 81.026 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13736,7 +13739,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 110.49 77.724 0)
+			(at 110.49 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13747,7 +13750,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 107.442 76.2 90)
+			(at 107.442 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13758,7 +13761,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C22935"
-			(at 109.22 76.2 0)
+			(at 109.22 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13769,7 +13772,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100mW 1MΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 109.22 76.2 0)
+			(at 109.22 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13780,7 +13783,7 @@
 			)
 		)
 		(property "LCSC" "C22935"
-			(at 109.22 76.2 0)
+			(at 109.22 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13797,7 +13800,7 @@
 			(uuid "c04ef107-7b38-44c7-9e0f-ca1c43c08489")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R12")
 					(unit 1)
@@ -13807,7 +13810,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_10k_Vertical")
-		(at 208.28 30.48 0)
+		(at 208.28 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13817,7 +13820,7 @@
 		(dnp no)
 		(uuid "0561e7a9-41b8-44af-b034-7e25863ff518")
 		(property "Reference" "R26"
-			(at 209.55 28.956 0)
+			(at 209.55 35.306 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13828,7 +13831,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 209.55 32.004 0)
+			(at 209.55 38.354 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13839,7 +13842,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 206.502 30.48 90)
+			(at 206.502 36.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13850,7 +13853,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C25804"
-			(at 208.28 30.48 0)
+			(at 208.28 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13861,7 +13864,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 208.28 30.48 0)
+			(at 208.28 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13872,7 +13875,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 208.28 30.48 0)
+			(at 208.28 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13889,7 +13892,7 @@
 			(uuid "d7854d7f-605b-4eb9-8864-80404af02fc4")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R26")
 					(unit 1)
@@ -13899,7 +13902,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0805_4R7_Horizontal")
-		(at 26.67 29.21 0)
+		(at 26.67 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13909,7 +13912,7 @@
 		(dnp no)
 		(uuid "06025f98-0d2b-42ed-a689-40336605f90d")
 		(property "Reference" "R11"
-			(at 26.67 27.178 0)
+			(at 26.67 33.528 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13919,7 +13922,7 @@
 			)
 		)
 		(property "Value" "4R7"
-			(at 26.67 31.496 0)
+			(at 26.67 37.846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13929,7 +13932,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 24.892 29.21 90)
+			(at 24.892 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13940,7 +13943,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C17675"
-			(at 26.67 29.21 0)
+			(at 26.67 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13951,7 +13954,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 125mW 150V 4.7Ω Thick Film Resistor ±1% ±200ppm/℃ 0805 Chip Resistor - Surface Mount ROHS"
-			(at 26.67 29.21 0)
+			(at 26.67 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13962,7 +13965,7 @@
 			)
 		)
 		(property "LCSC" "C17675"
-			(at 26.67 29.21 0)
+			(at 26.67 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13979,7 +13982,7 @@
 			(uuid "77dbf2bf-e8db-40ef-83ed-0925ab498c8e")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R11")
 					(unit 1)
@@ -14071,7 +14074,7 @@
 			(uuid "82ececc8-3cf0-44ad-ae33-dea8347900a2")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R28")
 					(unit 1)
@@ -14081,7 +14084,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 80.01 0)
+		(at 100.33 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14091,7 +14094,7 @@
 		(dnp no)
 		(uuid "06413bda-7da1-499e-a09e-5799217046e7")
 		(property "Reference" "#PWR0119"
-			(at 100.33 85.09 0)
+			(at 100.33 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14102,7 +14105,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 100.33 83.82 0)
+			(at 100.33 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14113,7 +14116,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 80.01 0)
+			(at 100.33 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14124,7 +14127,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 80.01 0)
+			(at 100.33 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14135,7 +14138,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 80.01 0)
+			(at 100.33 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14149,7 +14152,7 @@
 			(uuid "a30ad69e-9773-468a-9ab4-a38c4785261f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0119")
 					(unit 1)
@@ -14227,7 +14230,7 @@
 			(uuid "ca1883f9-7081-488a-b24c-5e0aa57fb786")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0142")
 					(unit 1)
@@ -14366,7 +14369,7 @@
 			(uuid "f4e4cfd0-5364-4e3c-9fed-1d1b297114b5")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U2")
 					(unit 1)
@@ -14376,7 +14379,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_10k_Horizontal")
-		(at 147.32 86.36 0)
+		(at 147.32 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14386,7 +14389,7 @@
 		(dnp no)
 		(uuid "09be25c4-c0fd-44ad-b966-20d53bda591c")
 		(property "Reference" "R16"
-			(at 147.32 84.328 0)
+			(at 147.32 90.678 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14396,7 +14399,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 147.32 88.646 0)
+			(at 147.32 94.996 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14406,7 +14409,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 145.542 86.36 90)
+			(at 145.542 92.71 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14417,7 +14420,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C25804"
-			(at 147.32 86.36 0)
+			(at 147.32 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14428,7 +14431,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 147.32 86.36 0)
+			(at 147.32 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14439,7 +14442,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 147.32 86.36 0)
+			(at 147.32 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14456,7 +14459,7 @@
 			(uuid "47e5d7a2-5cf6-41b8-9a9c-d5421bb377d8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R16")
 					(unit 1)
@@ -14466,7 +14469,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 194.31 63.5 0)
+		(at 194.31 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14476,7 +14479,7 @@
 		(dnp no)
 		(uuid "0b4ff702-18ab-4da3-acab-afb5f44bdcf7")
 		(property "Reference" "TP4"
-			(at 194.31 55.88 0)
+			(at 194.31 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14486,7 +14489,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 194.31 58.42 0)
+			(at 194.31 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14497,7 +14500,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TestPoint_THTPad_D2.0mm_Drill1.0mm_ValueSilk-name"
-			(at 199.39 63.5 0)
+			(at 199.39 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14508,7 +14511,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 63.5 0)
+			(at 199.39 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14519,7 +14522,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 194.31 63.5 0)
+			(at 194.31 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14530,7 +14533,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 194.31 63.5 0)
+			(at 194.31 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14541,7 +14544,7 @@
 			)
 		)
 		(property "Name" "G2"
-			(at 194.31 57.912 0)
+			(at 194.31 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14551,7 +14554,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 194.31 63.5 0)
+			(at 194.31 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14562,7 +14565,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 194.31 63.5 0)
+			(at 194.31 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14576,7 +14579,7 @@
 			(uuid "e8624342-a740-4a70-bfa4-c084ec537e4e")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP4")
 					(unit 1)
@@ -14668,7 +14671,7 @@
 			(uuid "232176d3-cda8-48d2-87ab-b0a4574e5032")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D3")
 					(unit 1)
@@ -14678,7 +14681,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 274.32 34.29 0)
+		(at 274.32 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14688,7 +14691,7 @@
 		(dnp no)
 		(uuid "0e4b44ec-b691-4ffa-bb58-866832bbea8a")
 		(property "Reference" "J5"
-			(at 274.574 31.242 0)
+			(at 274.574 37.592 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14698,7 +14701,7 @@
 			)
 		)
 		(property "Value" "B-057-HP"
-			(at 266.954 36.322 0)
+			(at 266.954 42.672 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14708,7 +14711,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:COSMTEC_B-057-HP"
-			(at 274.32 34.29 0)
+			(at 274.32 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14719,7 +14722,7 @@
 			)
 		)
 		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g100134/"
-			(at 274.32 34.29 0)
+			(at 274.32 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14730,7 +14733,7 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 274.32 34.29 0)
+			(at 274.32 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14741,7 +14744,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 274.32 34.29 0)
+			(at 274.32 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14752,7 +14755,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 274.32 34.29 0)
+			(at 274.32 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14763,7 +14766,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 274.32 34.29 0)
+			(at 274.32 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14774,7 +14777,7 @@
 			)
 		)
 		(property "Name" "SMU"
-			(at 268.478 38.1 0)
+			(at 268.478 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14790,7 +14793,7 @@
 			(uuid "6e53eac6-eb37-4799-891f-1579abb6cf62")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "J5")
 					(unit 1)
@@ -14800,85 +14803,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 227.33 74.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0f0b4a4f-f558-4c49-9dad-1403298fe836")
-		(property "Reference" "#PWR0126"
-			(at 227.33 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 227.33 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 227.33 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fbc5ad85-c0ee-4356-ad31-05a3852a6aa3")
-		)
-		(instances
-			(project "2026-05-23__constant-current-kairo"
-				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
-					(reference "#PWR0126")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 158.75 113.03 0)
+		(at 158.75 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14888,7 +14813,7 @@
 		(dnp no)
 		(uuid "0f95e8df-89c5-4f8d-8ee2-c546564c6b9b")
 		(property "Reference" "#PWR0102"
-			(at 158.75 118.11 0)
+			(at 158.75 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14899,7 +14824,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 158.75 116.84 0)
+			(at 158.75 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14910,7 +14835,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 113.03 0)
+			(at 158.75 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14921,7 +14846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 113.03 0)
+			(at 158.75 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14932,7 +14857,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 113.03 0)
+			(at 158.75 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14946,7 +14871,7 @@
 			(uuid "1ae71666-87b3-443a-bd87-fa53c26238de")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0102")
 					(unit 1)
@@ -14956,7 +14881,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_1206_0.1u-X7R_Vertical")
-		(at 266.7 62.23 0)
+		(at 266.7 68.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14966,7 +14891,7 @@
 		(dnp yes)
 		(uuid "1067082e-dbd5-4c05-8eed-55071bb1fecb")
 		(property "Reference" "C17"
-			(at 267.208 59.944 0)
+			(at 267.208 66.294 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14977,7 +14902,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 267.208 64.77 0)
+			(at 267.208 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14988,7 +14913,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 267.6652 66.04 0)
+			(at 267.6652 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14999,7 +14924,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C24497"
-			(at 266.7 62.23 0)
+			(at 266.7 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15010,7 +14935,7 @@
 			)
 		)
 		(property "Description" "100nF 50V X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 266.7 62.23 0)
+			(at 266.7 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15021,7 +14946,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 267.208 66.802 0)
+			(at 267.208 73.152 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15032,7 +14957,7 @@
 			)
 		)
 		(property "LCSC" "C24497"
-			(at 266.7 62.23 0)
+			(at 266.7 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15049,7 +14974,7 @@
 			(uuid "e6e3726b-2e10-478a-af5b-d25e3df77bbf")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C17")
 					(unit 1)
@@ -15059,7 +14984,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 142.24 82.55 0)
+		(at 142.24 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15069,7 +14994,7 @@
 		(dnp no)
 		(uuid "1695d74d-4851-42bf-960a-8d22a6821d83")
 		(property "Reference" "#PWR0122"
-			(at 142.24 87.63 0)
+			(at 142.24 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15080,7 +15005,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 142.24 86.36 0)
+			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15091,7 +15016,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 82.55 0)
+			(at 142.24 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15102,7 +15027,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 82.55 0)
+			(at 142.24 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15113,7 +15038,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 142.24 82.55 0)
+			(at 142.24 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15127,7 +15052,7 @@
 			(uuid "a5534825-b050-4c6a-aa0a-bf9651713cc2")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0122")
 					(unit 1)
@@ -15205,7 +15130,7 @@
 			(uuid "5fd539e6-ed8f-44da-9bd1-708f72b455fd")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0149")
 					(unit 1)
@@ -15309,7 +15234,7 @@
 			(uuid "e0170479-f27d-4412-8107-65deaa8c816e")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C6")
 					(unit 1)
@@ -15319,7 +15244,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DPDT_x2")
-		(at 152.4 96.52 270)
+		(at 152.4 102.87 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15329,7 +15254,7 @@
 		(dnp no)
 		(uuid "1801eb41-ca5e-43ac-aaff-71bc5056d6f8")
 		(property "Reference" "SW1"
-			(at 143.51 97.79 90)
+			(at 143.51 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15339,7 +15264,7 @@
 			)
 		)
 		(property "Value" "SW_DPDT_x2"
-			(at 141.986 94.488 90)
+			(at 141.986 100.838 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15349,7 +15274,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:SW_NKK_SS22SDP2"
-			(at 152.4 96.52 0)
+			(at 152.4 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15360,7 +15285,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 96.52 0)
+			(at 152.4 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15371,7 +15296,7 @@
 			)
 		)
 		(property "Description" "Switch, dual pole double throw, separate symbols"
-			(at 152.4 96.52 0)
+			(at 152.4 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15400,7 +15325,7 @@
 			(uuid "eacd1509-cb94-4ae3-9870-20ad4f3d0bb5")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "SW1")
 					(unit 1)
@@ -15535,7 +15460,7 @@
 			(uuid "8bdfd72d-dac3-4644-832c-8d9a65f1367c")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U1")
 					(unit 1)
@@ -15660,7 +15585,7 @@
 			(uuid "9ff5611c-70ef-4711-8cbb-d8fbe3095933")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D13")
 					(unit 1)
@@ -15738,7 +15663,7 @@
 			(uuid "821c0f8e-02e6-47c9-8e4b-c4f10800e3eb")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0226")
 					(unit 1)
@@ -15863,7 +15788,7 @@
 			(uuid "2cf1c93d-54d0-45de-bd00-edabfd7a8cf8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D5")
 					(unit 1)
@@ -16002,7 +15927,7 @@
 			(uuid "f4e4cfd0-5364-4e3c-9fed-1d1b297114b6")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U2")
 					(unit 7)
@@ -16094,7 +16019,7 @@
 			(uuid "2d917702-3196-411d-9195-89f9c003e89a")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R32")
 					(unit 1)
@@ -16172,7 +16097,7 @@
 			(uuid "40423224-0352-4611-aa73-2c7bff44382e")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#FLG0103")
 					(unit 1)
@@ -16182,7 +16107,7 @@
 	)
 	(symbol
 		(lib_id "Reference_Voltage:REF35102QDBVR")
-		(at 78.74 71.12 0)
+		(at 78.74 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16193,7 +16118,7 @@
 		(fields_autoplaced yes)
 		(uuid "2748d6a2-e83f-4e90-9aa4-0e009aed7e23")
 		(property "Reference" "U4"
-			(at 80.8833 60.96 0)
+			(at 80.8833 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16204,7 +16129,7 @@
 			)
 		)
 		(property "Value" "REF35102QDBVR"
-			(at 80.8833 63.5 0)
+			(at 80.8833 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16215,7 +16140,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 78.74 92.71 0)
+			(at 78.74 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16226,7 +16151,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ref35.pdf"
-			(at 78.74 90.17 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16237,7 +16162,7 @@
 			)
 		)
 		(property "Description" "1.024V, Ultra Low-Power, High-Precision Voltage Reference, SOT-23-6"
-			(at 78.74 52.07 0)
+			(at 78.74 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16266,7 +16191,7 @@
 			(uuid "81ac6cb0-92b5-4350-a3bb-ea413623c658")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U4")
 					(unit 1)
@@ -16276,7 +16201,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 31.75 38.1 0)
+		(at 31.75 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16286,7 +16211,7 @@
 		(dnp no)
 		(uuid "278447d2-c6e5-4a71-a274-665699ce43f9")
 		(property "Reference" "#PWR0111"
-			(at 31.75 43.18 0)
+			(at 31.75 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16297,7 +16222,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 31.75 41.91 0)
+			(at 31.75 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16308,7 +16233,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 38.1 0)
+			(at 31.75 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16319,7 +16244,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 38.1 0)
+			(at 31.75 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16330,7 +16255,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 38.1 0)
+			(at 31.75 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16344,7 +16269,7 @@
 			(uuid "c2447363-da76-4a7c-b76a-83031f1630b7")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0111")
 					(unit 1)
@@ -16436,7 +16361,7 @@
 			(uuid "e9e35366-d8d9-4b87-b312-8ef2e86682fe")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R29")
 					(unit 1)
@@ -16539,7 +16464,7 @@
 			(uuid "4f4ebdd7-7222-4fbf-b5cf-60b06d6ed6b8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C4")
 					(unit 1)
@@ -16653,7 +16578,7 @@
 			(uuid "1f4be7eb-b716-467f-b902-b5a993a73d57")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R8")
 					(unit 1)
@@ -16663,7 +16588,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 251.46 63.5 180)
+		(at 251.46 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16673,7 +16598,7 @@
 		(dnp no)
 		(uuid "28d36dbf-9181-49cd-84d2-6c83869b5132")
 		(property "Reference" "#PWR0131"
-			(at 251.46 58.42 0)
+			(at 251.46 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16684,7 +16609,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 251.46 59.69 0)
+			(at 251.46 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16695,7 +16620,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 63.5 0)
+			(at 251.46 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16706,7 +16631,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 63.5 0)
+			(at 251.46 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16717,7 +16642,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 251.46 63.5 0)
+			(at 251.46 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16731,7 +16656,7 @@
 			(uuid "49b4f054-e55d-4ed6-b157-c09050393afd")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0131")
 					(unit 1)
@@ -16741,7 +16666,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 66.04 67.31 0)
+		(at 66.04 73.66 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16751,7 +16676,7 @@
 		(dnp no)
 		(uuid "2c8104ae-c854-4d7f-8a29-f5caf324449e")
 		(property "Reference" "#PWR0115"
-			(at 66.04 72.39 0)
+			(at 66.04 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16762,7 +16687,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 66.04 71.12 0)
+			(at 66.04 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16773,7 +16698,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 67.31 0)
+			(at 66.04 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16784,7 +16709,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 67.31 0)
+			(at 66.04 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16795,7 +16720,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 67.31 0)
+			(at 66.04 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16809,7 +16734,7 @@
 			(uuid "fa1951c0-10f3-4317-8264-0c2dd198173d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0115")
 					(unit 1)
@@ -16948,7 +16873,7 @@
 			(uuid "f4e4cfd0-5364-4e3c-9fed-1d1b297114b7")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U2")
 					(unit 4)
@@ -17026,7 +16951,7 @@
 			(uuid "e594a65d-fa60-497b-bcb0-2b274b98ac51")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0108")
 					(unit 1)
@@ -17165,7 +17090,7 @@
 			(uuid "f4e4cfd0-5364-4e3c-9fed-1d1b297114b8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U2")
 					(unit 2)
@@ -17243,7 +17168,7 @@
 			(uuid "aaa13e2e-eb79-4298-9808-c76e5e38dd9f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0124")
 					(unit 1)
@@ -17321,7 +17246,7 @@
 			(uuid "4fc4bb15-b578-476f-be93-8b6c9dd6a187")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0223")
 					(unit 1)
@@ -17446,7 +17371,7 @@
 			(uuid "6ee26c97-7b38-4ff4-bb27-36f10cdc0fbf")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D14")
 					(unit 1)
@@ -17568,7 +17493,7 @@
 			(uuid "6cf65fb2-ac7e-41e0-8a4e-3446558bab96")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "J2")
 					(unit 1)
@@ -17578,7 +17503,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_100k_Vertical")
-		(at 199.39 30.48 0)
+		(at 199.39 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17588,7 +17513,7 @@
 		(dnp no)
 		(uuid "39bbef8c-9ceb-45cd-9723-e0c2d60bc4e9")
 		(property "Reference" "R24"
-			(at 200.66 28.956 0)
+			(at 200.66 35.306 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17599,7 +17524,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 200.66 32.004 0)
+			(at 200.66 38.354 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17610,7 +17535,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 197.612 30.48 90)
+			(at 197.612 36.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17621,7 +17546,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C25803"
-			(at 199.39 30.48 0)
+			(at 199.39 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17632,7 +17557,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100kΩ 100mW 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 199.39 30.48 0)
+			(at 199.39 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17643,7 +17568,7 @@
 			)
 		)
 		(property "LCSC" "C25803"
-			(at 199.39 30.48 0)
+			(at 199.39 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17660,7 +17585,7 @@
 			(uuid "49568960-ac8a-4a6a-baeb-7c249b26b087")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R24")
 					(unit 1)
@@ -17738,7 +17663,7 @@
 			(uuid "becbb76b-d8f6-46f6-8bd2-aea29bd41313")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0107")
 					(unit 1)
@@ -17816,7 +17741,7 @@
 			(uuid "5ae56b55-71e7-43a1-bcf1-d5df5d25b54f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0202")
 					(unit 1)
@@ -17894,7 +17819,7 @@
 			(uuid "215daec9-13b9-41f8-8002-2c358ecc7456")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0128")
 					(unit 1)
@@ -17904,7 +17829,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_1k_Vertical")
-		(at 149.86 107.95 0)
+		(at 149.86 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17914,7 +17839,7 @@
 		(dnp no)
 		(uuid "3fa4f63e-bfe9-428f-9679-8927bf3dd564")
 		(property "Reference" "R17"
-			(at 151.13 106.426 0)
+			(at 151.13 112.776 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17925,7 +17850,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 151.13 109.474 0)
+			(at 151.13 115.824 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17936,7 +17861,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 148.082 107.95 90)
+			(at 148.082 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17947,7 +17872,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
-			(at 149.86 107.95 0)
+			(at 149.86 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17958,7 +17883,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100mW 1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 149.86 107.95 0)
+			(at 149.86 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17969,7 +17894,7 @@
 			)
 		)
 		(property "LCSC" "C21190"
-			(at 149.86 107.95 0)
+			(at 149.86 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17986,7 +17911,7 @@
 			(uuid "aca868f6-4abc-4a78-ba51-de2a0dc1c5c0")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R17")
 					(unit 1)
@@ -17996,7 +17921,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 240.03 44.45 0)
+		(at 240.03 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18006,7 +17931,7 @@
 		(dnp no)
 		(uuid "3feecb36-9ace-48ff-8c76-a4bf7c78ffb8")
 		(property "Reference" "TP7"
-			(at 240.03 36.83 0)
+			(at 240.03 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18016,7 +17941,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 240.03 39.37 0)
+			(at 240.03 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18027,7 +17952,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TestPoint_THTPad_D2.0mm_Drill1.0mm_ValueSilk-name"
-			(at 245.11 44.45 0)
+			(at 245.11 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18038,7 +17963,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 245.11 44.45 0)
+			(at 245.11 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18049,7 +17974,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 240.03 44.45 0)
+			(at 240.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18060,7 +17985,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 240.03 44.45 0)
+			(at 240.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18071,7 +17996,7 @@
 			)
 		)
 		(property "Name" "GND"
-			(at 240.03 38.862 0)
+			(at 240.03 45.212 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18081,7 +18006,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 240.03 44.45 0)
+			(at 240.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18092,7 +18017,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 240.03 44.45 0)
+			(at 240.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18106,7 +18031,7 @@
 			(uuid "8e6fa28c-63a1-4674-9144-cbd492d2a1eb")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP7")
 					(unit 1)
@@ -18184,7 +18109,7 @@
 			(uuid "cd90dbd3-d2c3-4c37-aed2-dbf3c89eeea5")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0113")
 					(unit 1)
@@ -18194,7 +18119,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 220.98 34.29 0)
+		(at 220.98 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18204,7 +18129,7 @@
 		(dnp no)
 		(uuid "4a9a6d56-e1f1-4d92-9ee0-3ff30f2d5031")
 		(property "Reference" "#PWR0125"
-			(at 220.98 39.37 0)
+			(at 220.98 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18215,7 +18140,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 220.98 38.1 0)
+			(at 220.98 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18226,7 +18151,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 34.29 0)
+			(at 220.98 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18237,7 +18162,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 34.29 0)
+			(at 220.98 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18248,7 +18173,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 220.98 34.29 0)
+			(at 220.98 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18262,7 +18187,7 @@
 			(uuid "f136f5db-1325-4ca5-921f-9714f0c88d5f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0125")
 					(unit 1)
@@ -18382,7 +18307,7 @@
 			(uuid "dda02d5f-6332-45ca-90de-f5182b02e512")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP1")
 					(unit 1)
@@ -18473,7 +18398,7 @@
 			(uuid "e4a0b909-0efa-4d7e-8351-00673ed7b6b5")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D8")
 					(unit 1)
@@ -18551,7 +18476,7 @@
 			(uuid "29be5279-f6ca-4c4c-85b4-e00e036575da")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0105")
 					(unit 1)
@@ -18561,7 +18486,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 74.93 0)
+		(at 43.18 81.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18571,7 +18496,7 @@
 		(dnp no)
 		(uuid "4e1e74e4-73dc-455b-a9fd-4571a06677a7")
 		(property "Reference" "#PWR0114"
-			(at 43.18 80.01 0)
+			(at 43.18 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18582,7 +18507,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 43.18 78.74 0)
+			(at 43.18 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18593,7 +18518,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 74.93 0)
+			(at 43.18 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18604,7 +18529,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 74.93 0)
+			(at 43.18 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18615,7 +18540,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 43.18 74.93 0)
+			(at 43.18 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18629,7 +18554,7 @@
 			(uuid "b2c6cec6-38fc-4d04-8f4e-c4a4e0ab6598")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0114")
 					(unit 1)
@@ -18754,7 +18679,7 @@
 			(uuid "96d97bbb-119c-46e9-ad22-704951fa41c2")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D4")
 					(unit 1)
@@ -18846,7 +18771,7 @@
 			(uuid "8740764b-70c9-46fa-9fc2-fa25f603db15")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R9")
 					(unit 1)
@@ -18856,7 +18781,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 142.24 73.66 0)
+		(at 142.24 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18866,7 +18791,7 @@
 		(dnp no)
 		(uuid "4eedb0a7-ff48-4b53-8d39-d5414f3a6829")
 		(property "Reference" "TP3"
-			(at 142.24 66.04 0)
+			(at 142.24 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18876,7 +18801,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 142.24 68.58 0)
+			(at 142.24 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18887,7 +18812,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TestPoint_THTPad_D2.0mm_Drill1.0mm_ValueSilk-name"
-			(at 147.32 73.66 0)
+			(at 147.32 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18898,7 +18823,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 73.66 0)
+			(at 147.32 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18909,7 +18834,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 142.24 73.66 0)
+			(at 142.24 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18920,7 +18845,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 142.24 73.66 0)
+			(at 142.24 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18931,7 +18856,7 @@
 			)
 		)
 		(property "Name" "G1"
-			(at 142.24 68.072 0)
+			(at 142.24 74.422 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18941,7 +18866,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 142.24 73.66 0)
+			(at 142.24 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18952,7 +18877,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 142.24 73.66 0)
+			(at 142.24 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18966,7 +18891,7 @@
 			(uuid "2300ff63-1844-4a13-bb60-979aa916bb07")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP3")
 					(unit 1)
@@ -18976,7 +18901,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 274.32 39.37 0)
+		(at 274.32 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18986,7 +18911,7 @@
 		(dnp no)
 		(uuid "51fd9c15-642f-4e7a-805f-f095568b5b78")
 		(property "Reference" "#PWR0133"
-			(at 274.32 44.45 0)
+			(at 274.32 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18997,7 +18922,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 274.32 43.18 0)
+			(at 274.32 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19008,7 +18933,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 274.32 39.37 0)
+			(at 274.32 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19019,7 +18944,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 39.37 0)
+			(at 274.32 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19030,7 +18955,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 274.32 39.37 0)
+			(at 274.32 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19044,7 +18969,7 @@
 			(uuid "22a46b67-de9f-4aa2-b936-971e4171644b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0133")
 					(unit 1)
@@ -19136,7 +19061,7 @@
 			(uuid "ef2f893b-7677-460d-8316-b0487f1b2caf")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R6")
 					(unit 1)
@@ -19146,7 +19071,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_0603_0.1u-X7R_Vertical")
-		(at 66.04 63.5 0)
+		(at 66.04 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19156,7 +19081,7 @@
 		(dnp no)
 		(uuid "54e1a47c-cedd-45ae-a329-b0282a678f12")
 		(property "Reference" "C11"
-			(at 66.548 61.214 0)
+			(at 66.548 67.564 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19167,7 +19092,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 66.548 66.04 0)
+			(at 66.548 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19178,7 +19103,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 67.0052 67.31 0)
+			(at 67.0052 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19189,7 +19114,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C14663"
-			(at 66.04 63.5 0)
+			(at 66.04 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19200,7 +19125,7 @@
 			)
 		)
 		(property "Description" "100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 66.04 63.5 0)
+			(at 66.04 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19211,7 +19136,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 69.088 64.008 0)
+			(at 69.088 70.358 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19222,7 +19147,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 66.04 63.5 0)
+			(at 66.04 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19239,7 +19164,7 @@
 			(uuid "723fccac-f7d0-41e2-a494-b4136ca5c70d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C11")
 					(unit 1)
@@ -19359,7 +19284,7 @@
 			(uuid "d96e4818-0a77-4118-9b86-23985b559e51")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP8")
 					(unit 1)
@@ -19369,7 +19294,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 246.38 76.2 0)
+		(at 246.38 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19379,7 +19304,7 @@
 		(dnp no)
 		(uuid "5800ff32-97bc-4ba6-ae36-b2de8812d193")
 		(property "Reference" "#PWR0130"
-			(at 246.38 81.28 0)
+			(at 246.38 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19390,7 +19315,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 246.38 80.01 0)
+			(at 246.38 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19401,7 +19326,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 76.2 0)
+			(at 246.38 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19412,7 +19337,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 76.2 0)
+			(at 246.38 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19423,7 +19348,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 76.2 0)
+			(at 246.38 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19437,7 +19362,7 @@
 			(uuid "993b8894-0f80-4763-8f0c-695c0b2e30ac")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0130")
 					(unit 1)
@@ -19576,7 +19501,7 @@
 			(uuid "f4e4cfd0-5364-4e3c-9fed-1d1b297114b9")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U2")
 					(unit 3)
@@ -19666,7 +19591,7 @@
 			(uuid "5fd01549-5d5a-4f3a-b769-fd9e6c910326")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D2")
 					(unit 1)
@@ -19743,7 +19668,7 @@
 			(uuid "28a583fa-1aec-49d5-b840-ab2a81208ff1")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0127")
 					(unit 1)
@@ -19834,7 +19759,7 @@
 			(uuid "2696b359-aa17-4517-8443-822c684cd764")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "SW1")
 					(unit 2)
@@ -19973,7 +19898,7 @@
 			(uuid "f4e4cfd0-5364-4e3c-9fed-1d1b297114ba")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U2")
 					(unit 5)
@@ -20076,7 +20001,7 @@
 			(uuid "020a78f8-fb08-4f77-a3e2-6f51c2d49fc9")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C3")
 					(unit 1)
@@ -20168,7 +20093,7 @@
 			(uuid "2f075fca-4cc3-411d-915c-5a493352d23b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R10")
 					(unit 1)
@@ -20246,7 +20171,7 @@
 			(uuid "85bfab6d-2b89-4939-bdb5-208fc1f3a1f6")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0203")
 					(unit 1)
@@ -20324,7 +20249,7 @@
 			(uuid "44d23a90-9383-4318-acaf-675916e2ce7b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0209")
 					(unit 1)
@@ -20420,7 +20345,7 @@
 			(uuid "444c170d-21d0-4c6a-8dbb-215d4c7922a0")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "Q2")
 					(unit 1)
@@ -20430,7 +20355,7 @@
 	)
 	(symbol
 		(lib_id "1_OPAMP:OPA2140AIDR")
-		(at 124.46 73.66 0)
+		(at 124.46 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20440,7 +20365,7 @@
 		(dnp no)
 		(uuid "6877616a-b180-49d1-ab45-293abfa1ae63")
 		(property "Reference" "U3"
-			(at 124.46 65.786 0)
+			(at 124.46 72.136 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20451,7 +20376,7 @@
 			)
 		)
 		(property "Value" "OPA2333AIDR"
-			(at 124.46 68.072 0)
+			(at 124.46 74.422 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20462,7 +20387,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 124.46 73.66 0)
+			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20473,7 +20398,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa2333.pdf"
-			(at 124.46 73.66 0)
+			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20484,7 +20409,7 @@
 			)
 		)
 		(property "Description" "High-Precision, Low-Noise, Rail-to-Rail Output, 11-MHz, JFET Op Amps"
-			(at 124.46 73.66 0)
+			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20495,7 +20420,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 124.46 73.66 0)
+			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20506,7 +20431,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 124.46 73.66 0)
+			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20517,7 +20442,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 124.46 73.66 0)
+			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20552,7 +20477,7 @@
 			(uuid "7341fc3a-824d-42f8-9eec-146e02dae035")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U3")
 					(unit 1)
@@ -20630,7 +20555,7 @@
 			(uuid "70f38dab-752b-4455-bd8b-e72ffacdf67f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0138")
 					(unit 1)
@@ -20640,7 +20565,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_0_Vertical")
-		(at 152.4 41.91 0)
+		(at 152.4 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20650,7 +20575,7 @@
 		(dnp no)
 		(uuid "69a26867-e241-47f3-adc2-eb5022498ee1")
 		(property "Reference" "R18"
-			(at 153.67 40.386 0)
+			(at 153.67 46.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20661,7 +20586,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 153.67 43.434 0)
+			(at 153.67 49.784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20672,7 +20597,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 150.622 41.91 90)
+			(at 150.622 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20683,7 +20608,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C21189"
-			(at 152.4 41.91 0)
+			(at 152.4 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20694,7 +20619,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 0Ω 100mW 75V Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount ROHS"
-			(at 152.4 41.91 0)
+			(at 152.4 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20705,7 +20630,7 @@
 			)
 		)
 		(property "LCSC" "C21189"
-			(at 152.4 41.91 0)
+			(at 152.4 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20722,7 +20647,7 @@
 			(uuid "13b5dcca-91a8-416b-855b-9f0993121c5a")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R18")
 					(unit 1)
@@ -20732,7 +20657,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_10k_Vertical")
-		(at 143.51 50.8 0)
+		(at 143.51 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20742,7 +20667,7 @@
 		(dnp no)
 		(uuid "6cdcdcf8-0b1e-4752-9087-cbac179f4fa9")
 		(property "Reference" "R15"
-			(at 144.78 49.276 0)
+			(at 144.78 55.626 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20753,7 +20678,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 144.78 52.324 0)
+			(at 144.78 58.674 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20764,7 +20689,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 141.732 50.8 90)
+			(at 141.732 57.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20775,7 +20700,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C25804"
-			(at 143.51 50.8 0)
+			(at 143.51 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20786,7 +20711,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 143.51 50.8 0)
+			(at 143.51 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20797,7 +20722,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 143.51 50.8 0)
+			(at 143.51 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20814,7 +20739,7 @@
 			(uuid "c04f6b9b-e3bb-4fb3-9ca1-333d127ee821")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R15")
 					(unit 1)
@@ -20824,7 +20749,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_0603_10u_25V-X5R_Vertical")
-		(at 90.17 78.74 0)
+		(at 90.17 85.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20834,7 +20759,7 @@
 		(dnp no)
 		(uuid "6db7d538-8ba5-4218-a14d-eda0a45461bf")
 		(property "Reference" "C12"
-			(at 90.678 76.454 0)
+			(at 90.678 82.804 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20845,7 +20770,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 90.678 81.28 0)
+			(at 90.678 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20856,7 +20781,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 91.1352 82.55 0)
+			(at 91.1352 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20867,7 +20792,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C96446"
-			(at 90.17 78.74 0)
+			(at 90.17 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20878,7 +20803,7 @@
 			)
 		)
 		(property "Description" "10uF 25V X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 90.17 78.74 0)
+			(at 90.17 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20889,7 +20814,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X5R"
-			(at 89.408 81.28 0)
+			(at 89.408 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20900,7 +20825,7 @@
 			)
 		)
 		(property "LCSC" "C96446"
-			(at 90.17 78.74 0)
+			(at 90.17 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20917,7 +20842,7 @@
 			(uuid "ac9c35bf-6d7d-4d41-8a21-2282e2b4ac44")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C12")
 					(unit 1)
@@ -20927,7 +20852,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 113.03 0)
+		(at 149.86 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20937,7 +20862,7 @@
 		(dnp no)
 		(uuid "6de7084d-c10b-49aa-ab7f-bf93a5693e79")
 		(property "Reference" "#PWR0101"
-			(at 149.86 118.11 0)
+			(at 149.86 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20948,7 +20873,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 149.86 116.84 0)
+			(at 149.86 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20959,7 +20884,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 113.03 0)
+			(at 149.86 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20970,7 +20895,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 113.03 0)
+			(at 149.86 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20981,7 +20906,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 113.03 0)
+			(at 149.86 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20995,7 +20920,7 @@
 			(uuid "60ae7c82-6c86-485d-9a27-b23455f1d5d6")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0101")
 					(unit 1)
@@ -21073,7 +20998,7 @@
 			(uuid "aeb8da72-f9fa-4190-9bd7-c06c7d4d52ac")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0162")
 					(unit 1)
@@ -21083,7 +21008,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 31.75 34.29 0)
+		(at 31.75 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21093,7 +21018,7 @@
 		(dnp no)
 		(uuid "722c07f6-cbb2-4464-9021-cf6f506fbfd8")
 		(property "Reference" "C9"
-			(at 32.258 32.004 0)
+			(at 32.258 38.354 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21104,7 +21029,7 @@
 			)
 		)
 		(property "Value" "100u"
-			(at 32.004 36.83 0)
+			(at 32.004 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21115,7 +21040,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
-			(at 40.386 43.434 0)
+			(at 40.386 49.784 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21126,7 +21051,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 34.29 0)
+			(at 31.75 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21137,7 +21062,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 31.75 34.29 0)
+			(at 31.75 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21148,7 +21073,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 31.75 34.29 0)
+			(at 31.75 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21159,7 +21084,7 @@
 			)
 		)
 		(property "MPN" "16SEPC100M"
-			(at 39.37 39.116 0)
+			(at 39.37 45.466 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21169,7 +21094,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 31.75 34.29 0)
+			(at 31.75 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21180,7 +21105,7 @@
 			)
 		)
 		(property "Component Class" "tall"
-			(at 31.75 34.29 0)
+			(at 31.75 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21197,7 +21122,7 @@
 			(uuid "2270a57f-72ed-4628-8733-56930ef59751")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C9")
 					(unit 1)
@@ -21207,7 +21132,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 104.14 71.12 0)
+		(at 104.14 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21217,7 +21142,7 @@
 		(dnp no)
 		(uuid "74977918-8fda-4429-aff9-768bcf19560e")
 		(property "Reference" "TP2"
-			(at 104.14 63.5 0)
+			(at 104.14 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21227,7 +21152,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 104.14 66.04 0)
+			(at 104.14 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21238,7 +21163,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TestPoint_THTPad_D2.0mm_Drill1.0mm_ValueSilk-name"
-			(at 109.22 71.12 0)
+			(at 109.22 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21249,7 +21174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 71.12 0)
+			(at 109.22 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21260,7 +21185,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 104.14 71.12 0)
+			(at 104.14 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21271,7 +21196,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 104.14 71.12 0)
+			(at 104.14 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21282,7 +21207,7 @@
 			)
 		)
 		(property "Name" "Ref"
-			(at 104.14 65.532 0)
+			(at 104.14 71.882 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21292,7 +21217,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 104.14 71.12 0)
+			(at 104.14 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21303,7 +21228,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 104.14 71.12 0)
+			(at 104.14 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21317,7 +21242,7 @@
 			(uuid "04cf452c-02e3-436a-9d54-8dba5cb8f2e4")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP2")
 					(unit 1)
@@ -21327,7 +21252,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 220.98 24.13 0)
+		(at 220.98 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21337,7 +21262,7 @@
 		(dnp no)
 		(uuid "7a69306e-c3e0-4389-9d3d-4ea514681a24")
 		(property "Reference" "TP5"
-			(at 220.98 16.51 0)
+			(at 220.98 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21347,7 +21272,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 220.98 19.05 0)
+			(at 220.98 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21358,7 +21283,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TestPoint_THTPad_D2.0mm_Drill1.0mm_ValueSilk-name"
-			(at 226.06 24.13 0)
+			(at 226.06 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21369,7 +21294,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 24.13 0)
+			(at 226.06 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21380,7 +21305,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 220.98 24.13 0)
+			(at 220.98 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21391,7 +21316,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 220.98 24.13 0)
+			(at 220.98 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21402,7 +21327,7 @@
 			)
 		)
 		(property "Name" "Vcc"
-			(at 220.98 18.542 0)
+			(at 220.98 24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21412,7 +21337,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 220.98 24.13 0)
+			(at 220.98 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21423,7 +21348,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 220.98 24.13 0)
+			(at 220.98 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21437,7 +21362,7 @@
 			(uuid "d923abff-8e8a-4373-940b-9a4ec96468a3")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP5")
 					(unit 1)
@@ -21529,7 +21454,7 @@
 			(uuid "c497838a-73ee-438f-a7f7-1ca051fd862f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C7")
 					(unit 1)
@@ -21539,7 +21464,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_0805_2200p-C0G_Horizontal")
-		(at 175.26 55.88 0)
+		(at 175.26 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21549,7 +21474,7 @@
 		(dnp no)
 		(uuid "7d73bead-ce39-4dc4-8a75-f679f547c992")
 		(property "Reference" "C15"
-			(at 175.26 52.578 0)
+			(at 175.26 58.928 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21559,7 +21484,7 @@
 			)
 		)
 		(property "Value" "2200p"
-			(at 175.26 59.182 0)
+			(at 175.26 65.532 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21569,7 +21494,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 176.2252 59.69 0)
+			(at 176.2252 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21580,7 +21505,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C28260"
-			(at 175.26 55.88 0)
+			(at 175.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21591,7 +21516,7 @@
 			)
 		)
 		(property "Description" "2.2nF 50V C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 175.26 55.88 0)
+			(at 175.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21602,7 +21527,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "C0G"
-			(at 178.562 57.404 0)
+			(at 178.562 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21612,7 +21537,7 @@
 			)
 		)
 		(property "LCSC" "C28260"
-			(at 175.26 55.88 0)
+			(at 175.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21629,7 +21554,7 @@
 			(uuid "821abcbb-0db4-4620-a610-5273c5d92003")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C15")
 					(unit 1)
@@ -21639,7 +21564,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_0603_1000p-X7R_Vertical")
-		(at 220.98 29.21 0)
+		(at 220.98 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21649,7 +21574,7 @@
 		(dnp no)
 		(uuid "7e9441f9-8402-4ce1-8527-007033598df2")
 		(property "Reference" "C16"
-			(at 221.488 26.924 0)
+			(at 221.488 33.274 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21660,7 +21585,7 @@
 			)
 		)
 		(property "Value" "1000p"
-			(at 221.488 31.75 0)
+			(at 221.488 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21671,7 +21596,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 221.9452 33.02 0)
+			(at 221.9452 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21682,7 +21607,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C1588"
-			(at 220.98 29.21 0)
+			(at 220.98 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21693,7 +21618,7 @@
 			)
 		)
 		(property "Description" "1nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 220.98 29.21 0)
+			(at 220.98 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21704,7 +21629,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 221.488 33.782 0)
+			(at 221.488 40.132 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21715,7 +21640,7 @@
 			)
 		)
 		(property "LCSC" "C1588"
-			(at 220.98 29.21 0)
+			(at 220.98 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21732,7 +21657,7 @@
 			(uuid "73d08293-f942-4278-b99e-dc5ce958627c")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C16")
 					(unit 1)
@@ -21822,7 +21747,7 @@
 			(uuid "13dd2259-63b2-45dc-bc27-b4399a94a091")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R4")
 					(unit 1)
@@ -21900,7 +21825,7 @@
 			(uuid "25a9c11c-ea88-4b27-93cd-88b62db54169")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0104")
 					(unit 1)
@@ -21992,7 +21917,7 @@
 			(uuid "fe8346a2-e514-4595-897d-63d1de95e1e2")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D1")
 					(unit 1)
@@ -22070,7 +21995,7 @@
 			(uuid "5fa8b1b3-e51a-43ee-af69-c548ce389492")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#FLG0102")
 					(unit 1)
@@ -22150,7 +22075,7 @@
 			(uuid "41c09655-3c3d-412e-ad30-9328102660c1")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "H3")
 					(unit 1)
@@ -22160,7 +22085,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 240.03 44.45 0)
+		(at 240.03 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22170,7 +22095,7 @@
 		(dnp no)
 		(uuid "918981b9-ab1f-42a3-8427-16d4f02d111f")
 		(property "Reference" "#PWR0129"
-			(at 240.03 49.53 0)
+			(at 240.03 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22181,7 +22106,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 240.03 48.26 0)
+			(at 240.03 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22192,7 +22117,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 240.03 44.45 0)
+			(at 240.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22203,7 +22128,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 44.45 0)
+			(at 240.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22214,7 +22139,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 240.03 44.45 0)
+			(at 240.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22228,7 +22153,7 @@
 			(uuid "75c12fdc-f49d-40c3-8163-4a5cfc1b5214")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0129")
 					(unit 1)
@@ -22238,7 +22163,7 @@
 	)
 	(symbol
 		(lib_id "1_OPAMP:OPA2140AIDR")
-		(at 45.72 67.31 0)
+		(at 45.72 73.66 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22248,7 +22173,7 @@
 		(dnp no)
 		(uuid "94465d77-1d3b-426a-9be1-757e562f34e8")
 		(property "Reference" "U3"
-			(at 45.72 62.23 0)
+			(at 45.72 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22259,7 +22184,7 @@
 			)
 		)
 		(property "Value" "OPA2333AIDR"
-			(at 45.72 72.39 0)
+			(at 45.72 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22270,7 +22195,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 45.72 67.31 0)
+			(at 45.72 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22281,7 +22206,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa2333.pdf"
-			(at 45.72 67.31 0)
+			(at 45.72 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22292,7 +22217,7 @@
 			)
 		)
 		(property "Description" "High-Precision, Low-Noise, Rail-to-Rail Output, 11-MHz, JFET Op Amps"
-			(at 45.72 67.31 0)
+			(at 45.72 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22303,7 +22228,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 45.72 67.31 0)
+			(at 45.72 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22314,7 +22239,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 45.72 67.31 0)
+			(at 45.72 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22325,7 +22250,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 45.72 67.31 0)
+			(at 45.72 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22360,7 +22285,7 @@
 			(uuid "8126c650-18b7-492e-8336-ba33de9714cc")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U3")
 					(unit 3)
@@ -22439,7 +22364,7 @@
 			(uuid "5e1b8c6e-e65f-46a0-85dd-a4f26bb53b0f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#FLG0101")
 					(unit 1)
@@ -22517,7 +22442,7 @@
 			(uuid "4f100641-538d-48b4-83b6-0207cc0c52bb")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0139")
 					(unit 1)
@@ -22608,7 +22533,7 @@
 			(uuid "69473a2c-4fb7-48ce-b788-f901366d13cc")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D10")
 					(unit 1)
@@ -22700,7 +22625,7 @@
 			(uuid "3fbb88c1-f501-401b-8f10-2e0626180cee")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C1")
 					(unit 1)
@@ -22791,7 +22716,7 @@
 			(uuid "f286f27a-f335-41b8-8efb-0a94f6559919")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D11")
 					(unit 1)
@@ -22883,7 +22808,7 @@
 			(uuid "1935c19c-7f8f-49b5-b1a7-35afb4d9d535")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R27")
 					(unit 1)
@@ -22893,7 +22818,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_10k_Horizontal")
-		(at 167.64 49.53 0)
+		(at 167.64 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22903,7 +22828,7 @@
 		(dnp no)
 		(uuid "a385a2f3-b98b-4ff8-992e-12e80960bd7b")
 		(property "Reference" "R21"
-			(at 167.64 47.498 0)
+			(at 167.64 53.848 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22913,7 +22838,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 167.64 51.816 0)
+			(at 167.64 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22923,7 +22848,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 165.862 49.53 90)
+			(at 165.862 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22934,7 +22859,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C25804"
-			(at 167.64 49.53 0)
+			(at 167.64 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22945,7 +22870,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 167.64 49.53 0)
+			(at 167.64 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22956,7 +22881,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 167.64 49.53 0)
+			(at 167.64 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22973,7 +22898,7 @@
 			(uuid "803e3855-e009-4c0d-8e15-a522f8dcd7c8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R21")
 					(unit 1)
@@ -23065,7 +22990,7 @@
 			(uuid "c670a97c-adf4-4852-b944-be04fe563ffb")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R7")
 					(unit 1)
@@ -23156,7 +23081,7 @@
 			(uuid "8900381f-e320-4f0a-a9fe-7ccfed655728")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "SW2")
 					(unit 2)
@@ -23259,7 +23184,7 @@
 			(uuid "bad0fe4d-b02d-4928-9446-0f604918fa3b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C8")
 					(unit 1)
@@ -23337,7 +23262,7 @@
 			(uuid "02431a92-a6e5-4a37-964f-3fea1a0cdfb1")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0161")
 					(unit 1)
@@ -23429,7 +23354,7 @@
 			(uuid "e5904806-16be-4172-8ccf-aa256700ad4a")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R34")
 					(unit 1)
@@ -23507,7 +23432,7 @@
 			(uuid "95e6a026-d7b6-46e4-9f0a-093640d45df0")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0141")
 					(unit 1)
@@ -23517,7 +23442,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 274.32 48.26 0)
+		(at 274.32 54.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23527,7 +23452,7 @@
 		(dnp no)
 		(uuid "adefbc9e-563f-4550-9b28-28f9361cfa78")
 		(property "Reference" "J6"
-			(at 274.574 45.212 0)
+			(at 274.574 51.562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23537,7 +23462,7 @@
 			)
 		)
 		(property "Value" "B-057-HP"
-			(at 266.954 50.292 0)
+			(at 266.954 56.642 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23547,7 +23472,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:COSMTEC_B-057-HP"
-			(at 274.32 48.26 0)
+			(at 274.32 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23558,7 +23483,7 @@
 			)
 		)
 		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g100134/"
-			(at 274.32 48.26 0)
+			(at 274.32 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23569,7 +23494,7 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 274.32 48.26 0)
+			(at 274.32 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23580,7 +23505,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 274.32 48.26 0)
+			(at 274.32 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23591,7 +23516,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 274.32 48.26 0)
+			(at 274.32 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23602,7 +23527,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 274.32 48.26 0)
+			(at 274.32 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23613,7 +23538,7 @@
 			)
 		)
 		(property "Name" "Sense"
-			(at 268.478 52.07 0)
+			(at 268.478 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23629,7 +23554,7 @@
 			(uuid "1e2b770e-9a2b-4459-8ce3-f9dab249c096")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "J6")
 					(unit 1)
@@ -23754,7 +23679,7 @@
 			(uuid "f3f3e700-c8cf-4c99-b9f2-1b04591f0f75")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D12")
 					(unit 1)
@@ -23764,7 +23689,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_10Meg_Vertical")
-		(at 194.31 69.85 0)
+		(at 194.31 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23774,7 +23699,7 @@
 		(dnp no)
 		(uuid "af5751dc-643d-4bf5-b5bd-09d50943b45b")
 		(property "Reference" "R23"
-			(at 195.58 68.326 0)
+			(at 195.58 74.676 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23785,7 +23710,7 @@
 			)
 		)
 		(property "Value" "10M"
-			(at 195.58 71.374 0)
+			(at 195.58 77.724 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23796,7 +23721,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 192.532 69.85 90)
+			(at 192.532 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23807,7 +23732,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C7250"
-			(at 194.31 69.85 0)
+			(at 194.31 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23818,7 +23743,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100mW 10MΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 194.31 69.85 0)
+			(at 194.31 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23829,7 +23754,7 @@
 			)
 		)
 		(property "LCSC" "C7250"
-			(at 194.31 69.85 0)
+			(at 194.31 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23846,7 +23771,7 @@
 			(uuid "1b86eaaa-9c7a-4585-b7f1-988836f1b5d8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R23")
 					(unit 1)
@@ -23936,7 +23861,7 @@
 			(uuid "42949ff8-6d2b-4e25-b213-b05ca3bc3613")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R3")
 					(unit 1)
@@ -23946,7 +23871,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 78.74 0)
+		(at 78.74 85.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23956,7 +23881,7 @@
 		(dnp no)
 		(uuid "b3fed2b1-6406-4224-98f5-151a251dfdd7")
 		(property "Reference" "#PWR0116"
-			(at 78.74 83.82 0)
+			(at 78.74 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23967,7 +23892,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 78.74 82.55 0)
+			(at 78.74 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23978,7 +23903,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 78.74 0)
+			(at 78.74 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23989,7 +23914,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 78.74 0)
+			(at 78.74 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24000,7 +23925,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 78.74 0)
+			(at 78.74 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24014,7 +23939,7 @@
 			(uuid "c7be38f9-5d11-4543-ab07-a7fdc527d0db")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0116")
 					(unit 1)
@@ -24108,7 +24033,7 @@
 			(uuid "df010bd3-8b8a-4e30-9a10-64216eedf5aa")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "Q3")
 					(unit 1)
@@ -24118,7 +24043,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 274.32 53.34 0)
+		(at 274.32 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24128,7 +24053,7 @@
 		(dnp no)
 		(uuid "b815117e-4213-48cd-8001-1bdcb8b6c6ce")
 		(property "Reference" "#PWR0134"
-			(at 274.32 58.42 0)
+			(at 274.32 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24139,7 +24064,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 274.32 57.15 0)
+			(at 274.32 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24150,7 +24075,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 274.32 53.34 0)
+			(at 274.32 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24161,7 +24086,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 53.34 0)
+			(at 274.32 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24172,7 +24097,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 274.32 53.34 0)
+			(at 274.32 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24186,7 +24111,7 @@
 			(uuid "8c9db607-fafd-49bb-bdd4-213ad8a72360")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0134")
 					(unit 1)
@@ -24264,7 +24189,7 @@
 			(uuid "1b6a8bae-5ef8-48b5-bffc-1b05af82f795")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#FLG0112")
 					(unit 1)
@@ -24342,7 +24267,7 @@
 			(uuid "11924dcb-e8b8-46a8-bca1-8be615190406")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0143")
 					(unit 1)
@@ -24420,7 +24345,7 @@
 			(uuid "fc4795ce-e84e-4181-8917-8b956358d058")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0145")
 					(unit 1)
@@ -24512,7 +24437,7 @@
 			(uuid "702b98fd-297a-417e-b0b2-e20be5d4f696")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R5")
 					(unit 1)
@@ -24522,7 +24447,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_10k_Vertical")
-		(at 158.75 107.95 0)
+		(at 158.75 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24532,7 +24457,7 @@
 		(dnp no)
 		(uuid "c0c23cba-2804-4ce8-8cbe-2ccff032a0ba")
 		(property "Reference" "R20"
-			(at 160.02 106.426 0)
+			(at 160.02 112.776 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24543,7 +24468,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 160.02 109.474 0)
+			(at 160.02 115.824 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24554,7 +24479,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 156.972 107.95 90)
+			(at 156.972 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24565,7 +24490,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C25804"
-			(at 158.75 107.95 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24576,7 +24501,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 158.75 107.95 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24587,7 +24512,7 @@
 			)
 		)
 		(property "LCSC" "C25804"
-			(at 158.75 107.95 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24604,7 +24529,7 @@
 			(uuid "b0dd8f94-0d6a-4515-afcb-c9e3b5c147de")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R20")
 					(unit 1)
@@ -24614,7 +24539,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x03_Counter_Clockwise")
-		(at 248.92 71.12 90)
+		(at 248.92 77.47 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24624,7 +24549,7 @@
 		(dnp no)
 		(uuid "c0f283d0-d5ae-46d0-8898-f1b85030ce91")
 		(property "Reference" "J4"
-			(at 243.84 69.85 0)
+			(at 243.84 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24634,7 +24559,7 @@
 			)
 		)
 		(property "Value" "2227MC-06-03"
-			(at 264.414 75.692 90)
+			(at 264.414 82.042 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24644,7 +24569,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-6_W7.62mm_Socket"
-			(at 248.92 71.12 0)
+			(at 248.92 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24655,7 +24580,7 @@
 			)
 		)
 		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g108617/"
-			(at 248.92 71.12 0)
+			(at 248.92 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24666,7 +24591,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 248.92 71.12 0)
+			(at 248.92 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24677,7 +24602,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 248.92 71.12 0)
+			(at 248.92 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24688,7 +24613,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 248.92 71.12 0)
+			(at 248.92 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24699,7 +24624,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 248.92 71.12 0)
+			(at 248.92 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24728,7 +24653,7 @@
 			(uuid "f0c2b606-3006-41ca-bd81-58b32a19715d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "J4")
 					(unit 1)
@@ -24808,7 +24733,7 @@
 			(uuid "ce2a459e-7a65-47d0-8488-17e9025eee21")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "H2")
 					(unit 1)
@@ -24818,7 +24743,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 152.4 60.96 0)
+		(at 152.4 67.31 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24828,7 +24753,7 @@
 		(dnp no)
 		(uuid "c27d3b5c-f321-407c-93cb-3f57bf230eff")
 		(property "Reference" "RV1"
-			(at 149.86 59.6899 0)
+			(at 149.86 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24839,7 +24764,7 @@
 			)
 		)
 		(property "Value" "B100R"
-			(at 149.86 62.2299 0)
+			(at 149.86 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24850,7 +24775,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TCOS_GF063P"
-			(at 152.4 60.96 0)
+			(at 152.4 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24861,7 +24786,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 60.96 0)
+			(at 152.4 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24872,7 +24797,7 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 152.4 60.96 0)
+			(at 152.4 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24883,7 +24808,7 @@
 			)
 		)
 		(property "Sim.Device" "R"
-			(at 152.4 60.96 0)
+			(at 152.4 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24894,7 +24819,7 @@
 			)
 		)
 		(property "Sim.Type" "POT"
-			(at 152.4 60.96 0)
+			(at 152.4 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24905,7 +24830,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
-			(at 152.4 60.96 0)
+			(at 152.4 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24916,7 +24841,7 @@
 			)
 		)
 		(property "MPN" "GF063P B101K"
-			(at 149.86 64.516 0)
+			(at 149.86 70.866 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24927,7 +24852,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 152.4 60.96 0)
+			(at 152.4 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24947,7 +24872,7 @@
 			(uuid "4291ca0e-e523-44a8-956d-ce462ffaab2f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "RV1")
 					(unit 1)
@@ -24957,7 +24882,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_1k_Vertical")
-		(at 152.4 50.8 0)
+		(at 152.4 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24967,7 +24892,7 @@
 		(dnp no)
 		(uuid "c2d66cb1-2973-4234-9a35-e1a12bfa2c46")
 		(property "Reference" "R19"
-			(at 153.67 49.276 0)
+			(at 153.67 55.626 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24978,7 +24903,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 153.67 52.324 0)
+			(at 153.67 58.674 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24989,7 +24914,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 150.622 50.8 90)
+			(at 150.622 57.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25000,7 +24925,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
-			(at 152.4 50.8 0)
+			(at 152.4 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25011,7 +24936,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100mW 1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 152.4 50.8 0)
+			(at 152.4 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25022,7 +24947,7 @@
 			)
 		)
 		(property "LCSC" "C21190"
-			(at 152.4 50.8 0)
+			(at 152.4 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25039,7 +24964,7 @@
 			(uuid "8a8e7bfe-5a3a-45ef-8760-a2a39bee5259")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R19")
 					(unit 1)
@@ -25131,7 +25056,7 @@
 			(uuid "f6fc27af-5375-4ee0-85ab-ce39b39fc48b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R36")
 					(unit 1)
@@ -25225,7 +25150,7 @@
 			(uuid "ea98dbd2-50d6-461b-9085-e300f63d2f8c")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "J1")
 					(unit 1)
@@ -25235,7 +25160,7 @@
 	)
 	(symbol
 		(lib_id "1_OPAMP:OPA2140AIDR")
-		(at 171.45 63.5 0)
+		(at 171.45 69.85 0)
 		(mirror x)
 		(unit 2)
 		(body_style 1)
@@ -25246,7 +25171,7 @@
 		(dnp no)
 		(uuid "c6981c72-5509-42db-ae30-698ad156a09d")
 		(property "Reference" "U3"
-			(at 172.466 75.438 0)
+			(at 174.498 73.152 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25257,7 +25182,7 @@
 			)
 		)
 		(property "Value" "OPA2333AIDR"
-			(at 168.402 72.644 0)
+			(at 173.228 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25268,7 +25193,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 171.45 63.5 0)
+			(at 171.45 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25279,7 +25204,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa2333.pdf"
-			(at 171.45 63.5 0)
+			(at 171.45 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25290,7 +25215,7 @@
 			)
 		)
 		(property "Description" "High-Precision, Low-Noise, Rail-to-Rail Output, 11-MHz, JFET Op Amps"
-			(at 171.45 63.5 0)
+			(at 171.45 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25301,7 +25226,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 171.45 63.5 0)
+			(at 171.45 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25312,7 +25237,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 171.45 63.5 0)
+			(at 171.45 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25323,7 +25248,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 171.45 63.5 0)
+			(at 171.45 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25358,7 +25283,7 @@
 			(uuid "7341fc3a-824d-42f8-9eec-146e02dae039")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U3")
 					(unit 2)
@@ -25369,7 +25294,7 @@
 	(symbol
 		(lib_name "+5V_1")
 		(lib_id "power:+5V")
-		(at 19.05 27.94 0)
+		(at 19.05 34.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25379,7 +25304,7 @@
 		(dnp no)
 		(uuid "c8407b5f-1457-48bb-a5dd-d76543a6f4ac")
 		(property "Reference" "#PWR0110"
-			(at 19.05 31.75 0)
+			(at 19.05 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25390,7 +25315,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 19.05 24.384 0)
+			(at 19.05 30.734 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25400,7 +25325,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 19.05 27.94 0)
+			(at 19.05 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25411,7 +25336,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 19.05 27.94 0)
+			(at 19.05 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25422,7 +25347,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 19.05 27.94 0)
+			(at 19.05 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25436,101 +25361,9 @@
 			(uuid "a866e1c2-ffb2-448b-8c54-24a49a67a2b2")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0110")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "3_JLCPCB_BasicParts:R_0603_0_Vertical")
-		(at 204.47 74.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c84cbc2f-02d9-41a8-86ea-817c59c479d9")
-		(property "Reference" "R25"
-			(at 205.74 73.406 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0"
-			(at 205.74 76.454 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 202.692 74.93 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/C21189"
-			(at 204.47 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "-55℃~+155℃ 0Ω 100mW 75V Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount ROHS"
-			(at 204.47 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C21189"
-			(at 204.47 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b1d00f04-1ee0-4093-b328-6c2e1dd5091a")
-		)
-		(pin "2"
-			(uuid "2a952fde-2570-4181-83df-9b4166bc38e8")
-		)
-		(instances
-			(project "2026-05-23__constant-current-kairo"
-				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
-					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -25631,7 +25464,7 @@
 			(uuid "ca869ecb-78fe-44ad-a69e-d2891903b9bc")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C5")
 					(unit 1)
@@ -25723,7 +25556,7 @@
 			(uuid "3cb3527a-4127-4b4d-9c97-1b69a867c265")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R31")
 					(unit 1)
@@ -25801,7 +25634,7 @@
 			(uuid "1bd727b1-ee45-47f2-a29b-ce2c53b66672")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0140")
 					(unit 1)
@@ -25940,7 +25773,7 @@
 			(uuid "f4e4cfd0-5364-4e3c-9fed-1d1b297114bb")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "U2")
 					(unit 6)
@@ -25950,7 +25783,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 90.17 83.82 0)
+		(at 90.17 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25960,7 +25793,7 @@
 		(dnp no)
 		(uuid "cd853a03-fc27-4ad5-b268-e0ba682852d3")
 		(property "Reference" "#PWR0117"
-			(at 90.17 88.9 0)
+			(at 90.17 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25971,7 +25804,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 90.17 87.63 0)
+			(at 90.17 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25982,7 +25815,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.17 83.82 0)
+			(at 90.17 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25993,7 +25826,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 83.82 0)
+			(at 90.17 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26004,7 +25837,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 90.17 83.82 0)
+			(at 90.17 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26018,7 +25851,7 @@
 			(uuid "ee5dc37f-260a-4011-b488-81fe45c0d26b")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0117")
 					(unit 1)
@@ -26028,7 +25861,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_3k3_Horizontal")
-		(at 189.23 63.5 0)
+		(at 189.23 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26038,7 +25871,7 @@
 		(dnp no)
 		(uuid "cd913005-5cf8-455c-9519-5e331274d581")
 		(property "Reference" "R22"
-			(at 189.23 61.468 0)
+			(at 189.23 67.818 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26048,7 +25881,7 @@
 			)
 		)
 		(property "Value" "3k3"
-			(at 189.23 65.786 0)
+			(at 189.23 72.136 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26058,7 +25891,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 187.452 63.5 90)
+			(at 187.452 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26069,7 +25902,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C22978"
-			(at 189.23 63.5 0)
+			(at 189.23 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26080,7 +25913,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100mW 3.3kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 189.23 63.5 0)
+			(at 189.23 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26091,7 +25924,7 @@
 			)
 		)
 		(property "LCSC" "C22978"
-			(at 189.23 63.5 0)
+			(at 189.23 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26108,7 +25941,7 @@
 			(uuid "0468bd68-9cf6-42a7-a3ac-e3281c397724")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R22")
 					(unit 1)
@@ -26186,7 +26019,7 @@
 			(uuid "8ced56a6-23bc-4ece-9169-e6e9b3afd63d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0225")
 					(unit 1)
@@ -26196,7 +26029,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 220.98 67.31 0)
+		(at 220.98 73.66 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26206,7 +26039,7 @@
 		(dnp no)
 		(uuid "d070236c-4b2a-4359-b0da-49a9c5d5f235")
 		(property "Reference" "TP6"
-			(at 220.98 59.69 0)
+			(at 220.98 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26216,7 +26049,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 220.98 62.23 0)
+			(at 220.98 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26227,7 +26060,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TestPoint_THTPad_D2.0mm_Drill1.0mm_ValueSilk-name"
-			(at 226.06 67.31 0)
+			(at 226.06 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26238,7 +26071,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 67.31 0)
+			(at 226.06 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26249,7 +26082,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 220.98 67.31 0)
+			(at 220.98 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26260,7 +26093,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 220.98 67.31 0)
+			(at 220.98 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26271,7 +26104,7 @@
 			)
 		)
 		(property "Name" "Source"
-			(at 220.98 61.722 0)
+			(at 220.98 68.072 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26281,7 +26114,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 220.98 67.31 0)
+			(at 220.98 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26292,7 +26125,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 220.98 67.31 0)
+			(at 220.98 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26306,7 +26139,7 @@
 			(uuid "43b99521-63e3-4540-aff7-b2c815337b0d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP6")
 					(unit 1)
@@ -26384,7 +26217,7 @@
 			(uuid "9a233c19-6464-4e12-91d3-0148f6b8239d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0120")
 					(unit 1)
@@ -26394,7 +26227,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_0603_0.1u-X7R_Vertical")
-		(at 34.29 67.31 0)
+		(at 34.29 73.66 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26404,7 +26237,7 @@
 		(dnp no)
 		(uuid "d1293515-1249-4e66-927a-be9c13ea049c")
 		(property "Reference" "C10"
-			(at 34.798 65.024 0)
+			(at 34.798 71.374 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26415,7 +26248,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 34.798 69.85 0)
+			(at 34.798 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26426,7 +26259,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 35.2552 71.12 0)
+			(at 35.2552 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26437,7 +26270,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C14663"
-			(at 34.29 67.31 0)
+			(at 34.29 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26448,7 +26281,7 @@
 			)
 		)
 		(property "Description" "100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 34.29 67.31 0)
+			(at 34.29 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26459,7 +26292,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 37.338 67.818 0)
+			(at 37.338 74.168 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26470,7 +26303,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 34.29 67.31 0)
+			(at 34.29 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26487,7 +26320,7 @@
 			(uuid "29755116-2cae-49d1-99ec-ce538b30647f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C10")
 					(unit 1)
@@ -26567,7 +26400,7 @@
 			(uuid "c84b567a-04f4-4199-a79f-2930a3999981")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "H1")
 					(unit 1)
@@ -26658,7 +26491,7 @@
 			(uuid "9a007a1e-5f91-4999-addd-a1312fde2018")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D7")
 					(unit 1)
@@ -26736,7 +26569,7 @@
 			(uuid "5a78f17b-4c33-42e7-8de6-e91314741f41")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0224")
 					(unit 1)
@@ -26746,7 +26579,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:R_0603_1k_Horizontal")
-		(at 137.16 73.66 0)
+		(at 137.16 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26756,7 +26589,7 @@
 		(dnp no)
 		(uuid "d3959699-ff25-494b-bb97-54a9acbcc957")
 		(property "Reference" "R13"
-			(at 137.16 71.628 0)
+			(at 137.16 77.978 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26766,7 +26599,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 137.16 75.946 0)
+			(at 137.16 82.296 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26776,7 +26609,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 135.382 73.66 90)
+			(at 135.382 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26787,7 +26620,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C21190"
-			(at 137.16 73.66 0)
+			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26798,7 +26631,7 @@
 			)
 		)
 		(property "Description" "-55℃~+155℃ 100mW 1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-			(at 137.16 73.66 0)
+			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26809,7 +26642,7 @@
 			)
 		)
 		(property "LCSC" "C21190"
-			(at 137.16 73.66 0)
+			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26820,7 +26653,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 137.16 73.66 0)
+			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26831,7 +26664,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 137.16 73.66 0)
+			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26848,7 +26681,7 @@
 			(uuid "0b4f9d41-3f9e-4496-96d2-f0ef62b62b30")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R13")
 					(unit 1)
@@ -26926,7 +26759,7 @@
 			(uuid "ff7c65f9-c403-44ac-bfa1-90cdf3f38ecc")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0136")
 					(unit 1)
@@ -26936,7 +26769,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 241.3 81.28 0)
+		(at 241.3 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26946,7 +26779,7 @@
 		(dnp no)
 		(uuid "d51790ae-87ca-4d5d-be36-f8acccd547b4")
 		(property "Reference" "TP9"
-			(at 241.3 73.66 0)
+			(at 241.3 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26956,7 +26789,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 241.3 76.2 0)
+			(at 241.3 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26967,7 +26800,7 @@
 			)
 		)
 		(property "Footprint" "0_Global_OriginalFootPrint:TestPoint_THTPad_D2.0mm_Drill1.0mm_ValueSilk-name"
-			(at 246.38 81.28 0)
+			(at 246.38 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26978,7 +26811,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 81.28 0)
+			(at 246.38 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26989,7 +26822,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 241.3 81.28 0)
+			(at 241.3 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27000,7 +26833,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 241.3 81.28 0)
+			(at 241.3 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27011,7 +26844,7 @@
 			)
 		)
 		(property "Name" "B"
-			(at 241.3 75.692 0)
+			(at 241.3 82.042 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27021,7 +26854,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 241.3 81.28 0)
+			(at 241.3 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27032,7 +26865,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 241.3 81.28 0)
+			(at 241.3 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27046,7 +26879,7 @@
 			(uuid "04feea8b-107f-4985-9d05-0475328769aa")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "TP9")
 					(unit 1)
@@ -27124,7 +26957,7 @@
 			(uuid "ee179cae-fd2c-4e46-aff8-f3523c5103f8")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0109")
 					(unit 1)
@@ -27202,7 +27035,7 @@
 			(uuid "99e8ba51-2415-4318-ad6c-97c8c5d15d9f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0144")
 					(unit 1)
@@ -27279,7 +27112,7 @@
 			(uuid "ae6d1f6a-3147-4ffc-ad09-cea5391a9169")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0106")
 					(unit 1)
@@ -27289,7 +27122,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_0805_2200p-C0G_Vertical")
-		(at 132.08 80.01 0)
+		(at 132.08 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27299,7 +27132,7 @@
 		(dnp no)
 		(uuid "d719d3cc-de01-40bc-98cd-150e9183a96a")
 		(property "Reference" "C14"
-			(at 132.588 77.724 0)
+			(at 132.588 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27310,7 +27143,7 @@
 			)
 		)
 		(property "Value" "2200p"
-			(at 132.588 82.55 0)
+			(at 132.588 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27321,7 +27154,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 133.0452 83.82 0)
+			(at 133.0452 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27332,7 +27165,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C28260"
-			(at 132.08 80.01 0)
+			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27343,7 +27176,7 @@
 			)
 		)
 		(property "Description" "2.2nF 50V C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 132.08 80.01 0)
+			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27354,7 +27187,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "C0G"
-			(at 132.588 84.582 0)
+			(at 132.588 90.932 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27365,7 +27198,7 @@
 			)
 		)
 		(property "LCSC" "C28260"
-			(at 132.08 80.01 0)
+			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27382,7 +27215,7 @@
 			(uuid "1966d6e0-3577-439f-8900-8b3f3dc7964f")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C14")
 					(unit 1)
@@ -27506,7 +27339,7 @@
 			(uuid "d479132e-3f73-4654-a52e-db8ad4abaa45")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C2")
 					(unit 1)
@@ -27598,7 +27431,7 @@
 			(uuid "fe04f958-ed7e-4ac8-ad24-d1e8efb081f3")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R30")
 					(unit 1)
@@ -27678,7 +27511,7 @@
 			(uuid "e7493509-fd42-4061-8020-e55fb1d43e19")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "H4")
 					(unit 1)
@@ -27768,7 +27601,7 @@
 			(uuid "4a054c36-acde-4f71-8ae0-64a1a9d5b289")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R1")
 					(unit 1)
@@ -27859,7 +27692,7 @@
 			(uuid "a51f64f1-f728-4daf-83cb-08d052151c66")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "D6")
 					(unit 1)
@@ -27952,7 +27785,7 @@
 			(uuid "fc6057a7-a612-46c4-a9bf-ceeb969f1fa7")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "Q1")
 					(unit 1)
@@ -28044,7 +27877,7 @@
 			(uuid "e0b02141-898c-488b-ab14-2452a5e69f7c")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R33")
 					(unit 1)
@@ -28054,7 +27887,7 @@
 	)
 	(symbol
 		(lib_id "3_JLCPCB_BasicParts:C_0603_10u_25V-X5R_Vertical")
-		(at 100.33 76.2 0)
+		(at 100.33 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28064,7 +27897,7 @@
 		(dnp no)
 		(uuid "e861c3ac-c7c7-415d-b73a-bd51266c537b")
 		(property "Reference" "C13"
-			(at 100.838 73.914 0)
+			(at 100.838 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28075,7 +27908,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 100.838 78.74 0)
+			(at 100.838 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28086,7 +27919,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 101.2952 80.01 0)
+			(at 101.2952 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28097,7 +27930,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/C96446"
-			(at 100.33 76.2 0)
+			(at 100.33 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28108,7 +27941,7 @@
 			)
 		)
 		(property "Description" "10uF 25V X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 100.33 76.2 0)
+			(at 100.33 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28119,7 +27952,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X5R"
-			(at 99.568 78.74 0)
+			(at 99.568 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28130,7 +27963,7 @@
 			)
 		)
 		(property "LCSC" "C96446"
-			(at 100.33 76.2 0)
+			(at 100.33 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28147,7 +27980,7 @@
 			(uuid "205b659d-990e-4dbe-881b-ae41347d5c8e")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "C13")
 					(unit 1)
@@ -28239,7 +28072,7 @@
 			(uuid "07ab7a23-7647-437d-8168-18a6ee9ba2c3")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R35")
 					(unit 1)
@@ -28317,7 +28150,7 @@
 			(uuid "726768dc-e109-4fdc-bd07-1c0c6b66354d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0118")
 					(unit 1)
@@ -28328,7 +28161,7 @@
 	(symbol
 		(lib_name "Q_Dual_NMOS_PMOS_G1S2G2D2S1D1_1")
 		(lib_id "Transistor_FET:Q_Dual_NMOS_PMOS_G1S2G2D2S1D1")
-		(at 201.93 63.5 0)
+		(at 201.93 69.85 0)
 		(mirror x)
 		(unit 2)
 		(body_style 1)
@@ -28339,7 +28172,7 @@
 		(dnp no)
 		(uuid "eece87bc-c497-4b7d-9245-e9590773bc6c")
 		(property "Reference" "Q4"
-			(at 207.01 65.278 0)
+			(at 207.01 71.628 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28350,7 +28183,7 @@
 			)
 		)
 		(property "Value" "SSM6L56FE"
-			(at 207.01 63.246 0)
+			(at 207.01 69.596 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28361,7 +28194,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-563"
-			(at 201.93 63.5 0)
+			(at 201.93 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28372,7 +28205,7 @@
 			)
 		)
 		(property "Datasheet" "https://toshiba.semicon-storage.com/info/SSM6L56FE_datasheet_ja_20190801.pdf"
-			(at 201.93 63.5 0)
+			(at 201.93 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28383,7 +28216,7 @@
 			)
 		)
 		(property "Description" "Dual NMOS PMOS transistor, 6 pin package"
-			(at 201.93 63.5 0)
+			(at 201.93 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28394,7 +28227,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 201.93 63.5 0)
+			(at 201.93 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28405,7 +28238,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 201.93 63.5 0)
+			(at 201.93 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28416,7 +28249,7 @@
 			)
 		)
 		(property "LCSC" "C17604697"
-			(at 201.93 63.5 0)
+			(at 201.93 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28445,7 +28278,7 @@
 			(uuid "9f347e46-a399-4e46-b204-447be6327ce1")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "Q4")
 					(unit 2)
@@ -28523,7 +28356,7 @@
 			(uuid "3bc71a75-b1be-4d62-8ddf-78adb4e9d17a")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0135")
 					(unit 1)
@@ -28601,7 +28434,7 @@
 			(uuid "b2f95489-fa24-4b04-a5a7-46a0ca93e8ae")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0112")
 					(unit 1)
@@ -28611,7 +28444,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 80.01 0)
+		(at 109.22 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28621,7 +28454,7 @@
 		(dnp no)
 		(uuid "fa0d7747-5af4-48fa-b1ff-a3f7583007eb")
 		(property "Reference" "#PWR0121"
-			(at 109.22 85.09 0)
+			(at 109.22 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28632,7 +28465,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 109.22 83.82 0)
+			(at 109.22 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28643,7 +28476,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 80.01 0)
+			(at 109.22 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28654,7 +28487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 80.01 0)
+			(at 109.22 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28665,7 +28498,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 80.01 0)
+			(at 109.22 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28679,7 +28512,7 @@
 			(uuid "f691b6d6-ded9-4f3a-a28e-05e38b37e74c")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0121")
 					(unit 1)
@@ -28689,7 +28522,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 266.7 67.31 0)
+		(at 266.7 73.66 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28699,7 +28532,7 @@
 		(dnp no)
 		(uuid "fa7c5d76-c434-4180-bbee-306040eba508")
 		(property "Reference" "#PWR0132"
-			(at 266.7 72.39 0)
+			(at 266.7 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28710,7 +28543,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 266.7 71.12 0)
+			(at 266.7 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28721,7 +28554,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 67.31 0)
+			(at 266.7 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28732,7 +28565,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 67.31 0)
+			(at 266.7 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28743,7 +28576,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 266.7 67.31 0)
+			(at 266.7 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28757,7 +28590,7 @@
 			(uuid "a40e60b8-f72b-41de-9078-91a66e469c0d")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0132")
 					(unit 1)
@@ -28767,7 +28600,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 194.31 73.66 0)
+		(at 194.31 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28777,7 +28610,7 @@
 		(dnp no)
 		(uuid "fc3847dd-616a-4d80-b109-68210d7fe221")
 		(property "Reference" "#PWR0123"
-			(at 194.31 78.74 0)
+			(at 194.31 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28788,7 +28621,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 194.31 77.47 0)
+			(at 194.31 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28799,7 +28632,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 73.66 0)
+			(at 194.31 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28810,7 +28643,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 73.66 0)
+			(at 194.31 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28821,7 +28654,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 73.66 0)
+			(at 194.31 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28835,7 +28668,7 @@
 			(uuid "9f4594f8-6cd3-4771-8d4c-e63597368add")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "#PWR0123")
 					(unit 1)
@@ -28925,7 +28758,7 @@
 			(uuid "af14029d-4865-4ca8-a380-5396858f3d14")
 		)
 		(instances
-			(project "2026-05-23__constant-current-kairo"
+			(project "transistor-hfe-measurement-circuit"
 				(path "/ca05477f-b90e-48cd-b2b9-72bab8d245c5"
 					(reference "R2")
 					(unit 1)
