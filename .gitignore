@@ -1,0 +1,29 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+_autosave-*
+\#auto_saved_files#
+*.bak
+~*.lck
+
+# Python
+__pycache__/
+*.py[cod]
+
+# KiCad local history
+.history/
+
+# Fabrication archives (regenerate from KiCad)
+production/*.zip
+production/backups/
+
+# Scratch copies
+* - コピー.*
+
+# Local archive (not published)
+archive/
+
+# Schematic exports (regenerate from KiCad)
+output/
